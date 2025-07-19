@@ -69,7 +69,7 @@
 
 2. قم بإنشاء قاعدة بيانات جديدة واستورد ملف `.sql` المرفق
 
-3. عدّل معلومات الاتصال بقاعدة البيانات في ملف `gamemodes/africa.pwn`
+3. عدّل معلومات الاتصال بقاعدة البيانات في ملف `gamemodes/africabeta.pwn`
 
 4. أضف توكن بوت ديسكورد إلى ملف `server.cfg` بهذا الشكل:
 
@@ -77,7 +77,7 @@
    discord_bot_token YOUR_TOKEN_HERE
    ```
 
-5. افتح ملف `africa.pwn` وابحث عن:
+5. افتح ملف `africabeta.pwn` وابحث عن:
 
    ```pawn
    | **__Discord Channels__** |
