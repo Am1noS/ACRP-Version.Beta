@@ -1,0 +1,779 @@
+[07/07/25 13:37:42] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1387928917859368991/messages': end of stream
+[07/07/25 13:44:18] [WARNING] Unknown gateway event 'GUILD_JOIN_REQUEST_UPDATE'
+[07/07/25 13:48:14] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1387928917859368991/messages': end of stream
+[07/07/25 14:04:47] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/07/25 14:06:24] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/07/25 14:34:30] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/07/25 14:35:37] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/07/25 14:38:40] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/07/25 14:39:19] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/07/25 14:39:43] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/07/25 14:40:19] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/07/25 14:40:55] [WARNING] Unknown gateway event 'GUILD_JOIN_REQUEST_UPDATE'
+[07/07/25 14:43:16] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/07/25 14:43:17] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/07/25 14:44:20] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/07/25 15:09:29] [ERROR] Can't read from Discord websocket gateway: Connection reset by peer (104)
+[07/07/25 15:09:29] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/07/25 15:19:07] [WARNING] Unknown gateway event 'GUILD_JOIN_REQUEST_UPDATE'
+[07/07/25 15:21:24] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/07/25 15:21:48] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/07/25 15:30:03] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/07/25 15:33:05] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/07/25 15:43:20] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1387928040675213383/messages': end of stream
+[07/07/25 15:50:23] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/07/25 15:52:38] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/07/25 15:52:51] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/07/25 15:55:44] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/07/25 15:58:22] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/07/25 16:24:08] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1387928040675213383/messages': end of stream
+[07/07/25 16:46:33] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1387928259324412064/messages': end of stream
+[07/07/25 16:58:50] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1357092424878395523/messages': end of stream
+[07/07/25 17:03:51] [ERROR] Discord terminated websocket connection; reason:  (1001)
+[07/07/25 17:03:51] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/07/25 17:08:32] [ERROR] Can't read from Discord websocket gateway: End of file (2)
+[07/07/25 17:22:48] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1387928040675213383/messages': end of stream
+[07/07/25 17:37:47] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1357092424878395523/messages': end of stream
+[07/07/25 17:46:34] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1387928917859368991/messages': end of stream
+[07/07/25 17:52:07] [ERROR] Can't read from Discord websocket gateway: Connection reset by peer (104)
+[07/07/25 17:52:07] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/07/25 17:57:19] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/07/25 18:07:28] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/07/25 18:27:35] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1357092424878395523/messages': end of stream
+[07/07/25 18:46:21] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1387928259324412064/messages': end of stream
+[07/07/25 18:58:30] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1357092424878395523/messages': end of stream
+[07/07/25 19:05:22] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/07/25 19:16:38] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1387928040675213383/messages': end of stream
+[07/07/25 20:57:26] [WARNING] Unknown gateway event 'GUILD_JOIN_REQUEST_UPDATE'
+[07/07/25 21:06:12] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1357092424878395523/messages': end of stream
+[07/07/25 21:10:00] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/07/25 21:14:49] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/07/25 21:22:17] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/07/25 21:24:36] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/07/25 21:25:13] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/07/25 21:36:44] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/07/25 21:49:38] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1387928040675213383/messages': end of stream
+[07/07/25 22:05:16] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1387929021035057173/messages': end of stream
+[07/07/25 22:26:29] [WARNING] Unknown gateway event 'GUILD_JOIN_REQUEST_UPDATE'
+[07/07/25 23:09:42] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/07/25 23:09:42] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/07/25 23:29:30] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1387928040675213383/messages': end of stream
+[07/07/25 23:37:15] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1357092424878395523/messages': end of stream
+[07/07/25 23:51:26] [WARNING] Unknown gateway event 'GUILD_JOIN_REQUEST_UPDATE'
+[07/08/25 00:03:41] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/08/25 00:03:42] [ERROR] Discord terminated websocket connection; reason: Not authenticated. (4003)
+[07/08/25 00:03:42] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/08/25 00:03:42] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/08/25 00:11:32] [WARNING] Unknown gateway event 'GUILD_JOIN_REQUEST_UPDATE'
+[07/08/25 00:36:28] [WARNING] Unknown gateway event 'GUILD_JOIN_REQUEST_UPDATE'
+[07/08/25 00:37:16] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/08/25 00:51:01] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1357092424878395523/messages': end of stream
+[07/08/25 00:58:07] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1387928259324412064/messages': end of stream
+[07/08/25 01:20:58] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/08/25 01:28:36] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1357092424878395523/messages': end of stream
+[07/08/25 01:54:37] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/08/25 01:54:38] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/08/25 02:12:47] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/08/25 02:18:43] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1357092424878395523/messages': end of stream
+[07/08/25 02:45:41] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/08/25 03:05:49] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1387928917859368991/messages': end of stream
+[07/08/25 04:14:27] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1357092424878395523/messages': end of stream
+[07/08/25 04:25:21] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1387928259324412064/messages': end of stream
+[07/08/25 04:52:58] [ERROR] Can't read from Discord websocket gateway: End of file (2)
+[07/08/25 04:52:58] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/08/25 04:52:58] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/08/25 05:08:02] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/08/25 05:08:03] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/08/25 06:58:24] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/08/25 06:58:24] [ERROR] Discord terminated websocket connection; reason: Not authenticated. (4003)
+[07/08/25 06:58:24] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/08/25 06:58:25] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/08/25 08:42:26] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/08/25 08:42:26] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/08/25 09:10:46] [ERROR] Can't read from Discord websocket gateway: End of file (2)
+[07/08/25 09:10:46] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/08/25 09:16:51] [ERROR] Can't read from Discord websocket gateway: End of file (2)
+[07/08/25 09:16:51] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/08/25 10:18:17] [ERROR] Can't read from Discord websocket gateway: End of file (2)
+[07/08/25 10:18:17] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/08/25 10:40:35] [ERROR] Can't read from Discord websocket gateway: End of file (2)
+[07/08/25 10:40:35] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/08/25 11:01:05] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/08/25 11:01:05] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/08/25 13:32:23] [WARNING] Unknown gateway event 'GUILD_JOIN_REQUEST_UPDATE'
+[07/08/25 13:35:44] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1357092424878395523/messages': end of stream
+[07/08/25 13:48:12] [WARNING] Unknown gateway event 'GUILD_JOIN_REQUEST_UPDATE'
+[07/08/25 13:51:21] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1387928040675213383/messages': end of stream
+[07/08/25 14:00:23] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/08/25 14:00:24] [ERROR] Discord terminated websocket connection; reason: Not authenticated. (4003)
+[07/08/25 14:00:24] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/08/25 14:35:05] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1357092424878395523/messages': end of stream
+[07/08/25 14:53:59] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1357092424878395523/messages': end of stream
+[07/08/25 15:22:18] [WARNING] Unknown gateway event 'GUILD_JOIN_REQUEST_UPDATE'
+[07/08/25 15:37:13] [WARNING] Unknown gateway event 'GUILD_JOIN_REQUEST_UPDATE'
+[07/08/25 15:42:03] [WARNING] Unknown gateway event 'GUILD_JOIN_REQUEST_UPDATE'
+[07/08/25 16:04:04] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1357092424878395523/messages': end of stream
+[07/08/25 16:23:28] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1387928040675213383/messages': end of stream
+[07/08/25 16:31:24] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1387928040675213383/messages': end of stream
+[07/08/25 16:43:00] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1387928040675213383/messages': end of stream
+[07/08/25 16:47:18] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/08/25 16:53:14] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1387928040675213383/messages': end of stream
+[07/08/25 17:01:00] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/08/25 17:01:00] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/08/25 17:02:16] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/08/25 17:17:32] [ERROR] DCC_SendChannelMessage: invalid channel id '173'
+[07/08/25 17:17:32] [ERROR] DCC_SendChannelEmbedMessage: invalid channel id '163'
+[07/08/25 17:29:12] [ERROR] DCC_SendChannelMessage: invalid channel id '25'
+[07/08/25 17:30:29] [ERROR] DCC_SendChannelMessage: invalid channel id '25'
+[07/08/25 17:30:31] [ERROR] DCC_SendChannelMessage: invalid channel id '25'
+[07/08/25 17:30:31] [ERROR] DCC_SendChannelMessage: invalid channel id '25'
+[07/08/25 17:30:53] [ERROR] DCC_SendChannelMessage: invalid channel id '25'
+[07/08/25 17:30:54] [ERROR] DCC_SendChannelMessage: invalid channel id '25'
+[07/08/25 17:30:54] [ERROR] DCC_SendChannelMessage: invalid channel id '25'
+[07/08/25 17:30:54] [ERROR] DCC_SendChannelMessage: invalid channel id '25'
+[07/08/25 17:30:57] [ERROR] DCC_SendChannelMessage: invalid channel id '171'
+[07/08/25 17:31:04] [ERROR] DCC_SendChannelMessage: invalid channel id '25'
+[07/08/25 17:33:01] [ERROR] DCC_SendChannelMessage: invalid channel id '171'
+[07/08/25 17:33:37] [WARNING] Unknown gateway event 'GUILD_JOIN_REQUEST_UPDATE'
+[07/08/25 17:34:35] [ERROR] DCC_SendChannelMessage: invalid channel id '2'
+[07/08/25 17:34:35] [ERROR] DCC_SendChannelMessage: invalid channel id '112'
+[07/08/25 17:34:54] [ERROR] DCC_SendChannelMessage: invalid channel id '125'
+[07/08/25 17:37:04] [WARNING] Unknown gateway event 'GUILD_JOIN_REQUEST_DELETE'
+[07/08/25 17:37:48] [ERROR] DCC_SendChannelMessage: invalid channel id '25'
+[07/08/25 17:38:41] [ERROR] DCC_SendChannelMessage: invalid channel id '171'
+[07/08/25 17:45:09] [ERROR] DCC_SendChannelMessage: invalid channel id '129'
+[07/08/25 17:45:38] [WARNING] Unknown gateway event 'GUILD_JOIN_REQUEST_UPDATE'
+[07/08/25 17:46:16] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/08/25 17:47:08] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/08/25 17:48:55] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/08/25 17:50:22] [WARNING] Unknown gateway event 'GUILD_JOIN_REQUEST_UPDATE'
+[07/08/25 18:25:09] [ERROR] DCC_SendChannelMessage: invalid channel id '0'
+[07/08/25 18:25:09] [ERROR] DCC_SendChannelMessage: invalid channel id '0'
+[07/08/25 18:25:12] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/08/25 18:27:15] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/08/25 18:28:53] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/08/25 18:39:30] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/08/25 18:40:58] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/08/25 18:58:36] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/08/25 20:31:47] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/08/25 20:31:48] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/08/25 21:43:52] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/08/25 22:07:25] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391586822961762396/messages': end of stream
+[07/08/25 22:24:43] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/08/25 23:24:05] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/08/25 23:40:56] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/09/25 00:01:14] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/09/25 00:11:27] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/09/25 00:11:27] [ERROR] Discord terminated websocket connection; reason: Not authenticated. (4003)
+[07/09/25 00:11:27] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/09/25 00:25:16] [WARNING] Unknown gateway event 'GUILD_JOIN_REQUEST_UPDATE'
+[07/09/25 00:30:52] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/09/25 01:20:05] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/09/25 01:29:19] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/09/25 01:44:40] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391586303476236348/messages': end of stream
+[07/09/25 01:51:29] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/09/25 01:51:57] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/09/25 01:52:03] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/09/25 01:52:09] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/09/25 02:43:00] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/09/25 03:35:12] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/09/25 03:35:12] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/09/25 04:10:50] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/09/25 04:10:50] [ERROR] Discord terminated websocket connection; reason: Not authenticated. (4003)
+[07/09/25 04:10:50] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/09/25 04:10:51] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/09/25 04:22:41] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/09/25 04:49:41] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/09/25 04:49:42] [ERROR] Discord terminated websocket connection; reason: Not authenticated. (4003)
+[07/09/25 04:49:42] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/09/25 04:49:42] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/09/25 07:33:57] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/09/25 07:33:57] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/09/25 08:08:45] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/09/25 08:08:45] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/09/25 10:49:40] [ERROR] Can't read from Discord websocket gateway: End of file (2)
+[07/09/25 10:49:40] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/09/25 12:19:46] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/09/25 12:19:47] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/09/25 13:00:39] [ERROR] Can't read from Discord websocket gateway: End of file (2)
+[07/09/25 13:00:39] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/09/25 13:41:14] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/09/25 14:10:22] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391585012712869968/messages': end of stream
+[07/09/25 14:17:46] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/09/25 14:39:12] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391586156243583106/messages': end of stream
+[07/09/25 14:48:39] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/09/25 15:40:36] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/09/25 15:40:36] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/09/25 16:32:34] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/09/25 16:50:32] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/09/25 17:08:25] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/09/25 17:29:37] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/09/25 17:37:26] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/09/25 18:27:16] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/09/25 18:27:17] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/09/25 18:31:54] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/09/25 20:20:13] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/09/25 20:36:29] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/09/25 20:40:16] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/09/25 20:59:54] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/09/25 21:45:24] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/09/25 21:45:25] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/09/25 21:51:20] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/09/25 22:19:22] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/09/25 22:25:01] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/09/25 22:36:29] [ERROR] Can't read from Discord websocket gateway: End of file (2)
+[07/09/25 22:36:29] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/09/25 23:25:25] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/09/25 23:25:44] [WARNING] Unknown gateway event 'GUILD_JOIN_REQUEST_UPDATE'
+[07/09/25 23:27:44] [WARNING] Unknown gateway event 'GUILD_JOIN_REQUEST_UPDATE'
+[07/10/25 00:29:54] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/10/25 00:33:54] [WARNING] Unknown gateway event 'GUILD_JOIN_REQUEST_UPDATE'
+[07/10/25 00:40:59] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/10/25 00:49:04] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/10/25 00:52:41] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/10/25 01:05:30] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391586303476236348/messages': end of stream
+[07/10/25 01:07:29] [WARNING] Unknown gateway event 'GUILD_JOIN_REQUEST_UPDATE'
+[07/10/25 01:08:16] [WARNING] Unknown gateway event 'GUILD_JOIN_REQUEST_DELETE'
+[07/10/25 01:26:50] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391586822961762396/messages': end of stream
+[07/10/25 01:41:55] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/10/25 02:24:41] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/10/25 03:07:19] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/10/25 03:07:19] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/10/25 03:18:23] [WARNING] Unknown gateway event 'GUILD_JOIN_REQUEST_UPDATE'
+[07/10/25 04:23:30] [WARNING] Unknown gateway event 'GUILD_JOIN_REQUEST_UPDATE'
+[07/10/25 05:05:43] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/10/25 05:05:44] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/10/25 05:53:21] [WARNING] Unknown gateway event 'GUILD_JOIN_REQUEST_UPDATE'
+[07/10/25 06:02:56] [ERROR] Can't read from Discord websocket gateway: End of file (2)
+[07/10/25 06:02:56] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/10/25 06:58:00] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/10/25 06:58:00] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/10/25 08:15:12] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/10/25 09:01:39] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/10/25 09:01:39] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/10/25 10:21:05] [ERROR] Can't read from Discord websocket gateway: unspecified system error (2)
+[07/10/25 10:21:05] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/10/25 10:21:05] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/10/25 11:57:51] [ERROR] Can't read from Discord websocket gateway: End of file (2)
+[07/10/25 11:57:51] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/10/25 12:19:17] [WARNING] Unknown gateway event 'GUILD_JOIN_REQUEST_UPDATE'
+[07/10/25 14:52:06] [ERROR] Can't read from Discord websocket gateway: End of file (2)
+[07/10/25 14:52:06] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/10/25 15:19:36] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/10/25 15:19:38] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/10/25 15:20:20] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/10/25 15:21:28] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/10/25 17:19:29] [WARNING] Unknown gateway event 'GUILD_JOIN_REQUEST_UPDATE'
+[07/10/25 17:47:03] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/10/25 18:16:45] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/10/25 18:16:45] [WARNING] Error while shutting down SSL on HTTP connection: Broken pipe (32)
+[07/10/25 18:24:18] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/10/25 18:25:00] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/10/25 18:27:05] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/10/25 18:27:06] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/10/25 18:28:29] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/10/25 18:31:42] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/10/25 18:31:43] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/10/25 19:14:10] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/10/25 19:28:29] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391586156243583106/messages': end of stream
+[07/10/25 19:48:01] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/10/25 19:55:41] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/10/25 20:29:43] [ERROR] Can't read from Discord websocket gateway: End of file (2)
+[07/10/25 20:29:43] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/10/25 20:29:43] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/10/25 21:32:36] [ERROR] Can't read from Discord websocket gateway: End of file (2)
+[07/10/25 21:32:36] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/10/25 21:41:36] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/10/25 22:27:14] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/10/25 23:27:11] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/10/25 23:57:56] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/10/25 23:57:57] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/11/25 00:38:49] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391585953457635328/messages': end of stream
+[07/11/25 00:53:50] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/11/25 00:53:51] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/11/25 00:54:37] [WARNING] Unknown gateway event 'GUILD_JOIN_REQUEST_UPDATE'
+[07/11/25 00:56:08] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/11/25 00:58:22] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/11/25 00:58:22] [ERROR] Discord terminated websocket connection; reason: Not authenticated. (4003)
+[07/11/25 00:58:22] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/11/25 01:13:33] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/11/25 01:37:36] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/11/25 01:57:01] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/11/25 02:31:46] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/11/25 02:31:47] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/11/25 02:35:56] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/11/25 02:35:56] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/11/25 02:36:51] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/11/25 02:55:12] [ERROR] Can't read from Discord websocket gateway: End of file (2)
+[07/11/25 02:55:12] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/11/25 03:11:02] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/11/25 03:26:25] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/11/25 03:26:25] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/11/25 03:34:24] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391586156243583106/messages': end of stream
+[07/11/25 03:51:17] [WARNING] Unknown gateway event 'GUILD_JOIN_REQUEST_UPDATE'
+[07/11/25 04:03:15] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/11/25 04:41:04] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/11/25 05:12:06] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391585012712869968/messages': end of stream
+[07/11/25 07:00:01] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/11/25 08:18:08] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/11/25 11:44:52] [ERROR] Can't read from Discord websocket gateway: End of file (2)
+[07/11/25 11:44:52] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/11/25 11:55:05] [ERROR] Can't read from Discord websocket gateway: End of file (2)
+[07/11/25 11:55:05] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/11/25 13:19:39] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/11/25 13:19:39] [ERROR] Discord terminated websocket connection; reason: Not authenticated. (4003)
+[07/11/25 13:19:39] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/11/25 13:19:40] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/11/25 14:22:34] [ERROR] Can't read from Discord websocket gateway: End of file (2)
+[07/11/25 14:22:34] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/11/25 14:32:25] [ERROR] Discord terminated websocket connection; reason: CloudFlare WebSocket proxy restarting (1001)
+[07/11/25 14:32:25] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/11/25 14:32:26] [ERROR] Discord terminated websocket connection; reason: Not authenticated. (4003)
+[07/11/25 14:32:26] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/11/25 14:32:26] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/11/25 14:47:36] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/11/25 14:47:36] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/11/25 14:48:12] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/11/25 15:09:47] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/11/25 15:10:57] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/11/25 15:11:07] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/11/25 15:12:30] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/11/25 15:26:31] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/11/25 15:52:59] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/11/25 16:17:54] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/11/25 16:17:55] [ERROR] Discord terminated websocket connection; reason: Not authenticated. (4003)
+[07/11/25 16:17:55] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/11/25 16:17:55] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/11/25 16:20:48] [WARNING] Unhandled payload opcode '1'
+[07/11/25 16:57:24] [WARNING] Unknown gateway event 'GUILD_JOIN_REQUEST_UPDATE'
+[07/11/25 17:47:00] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/11/25 17:57:59] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/11/25 18:09:22] [ERROR] Can't read from Discord websocket gateway: End of file (2)
+[07/11/25 18:09:22] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/11/25 19:07:15] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/11/25 19:09:57] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/11/25 19:12:36] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/11/25 19:18:43] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391586156243583106/messages': end of stream
+[07/11/25 20:12:44] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/11/25 20:26:56] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/11/25 20:29:33] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/11/25 20:30:29] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1353071139953442816/messages': end of stream
+[07/11/25 20:37:47] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/11/25 20:43:12] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/11/25 20:53:56] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/11/25 21:19:18] [WARNING] Unknown gateway event 'GUILD_JOIN_REQUEST_UPDATE'
+[07/11/25 22:00:56] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/11/25 22:16:58] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/11/25 22:54:35] [ERROR] Can't read from Discord websocket gateway: End of file (2)
+[07/11/25 22:54:35] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/11/25 22:54:36] [ERROR] Discord terminated websocket connection; reason: Not authenticated. (4003)
+[07/11/25 22:54:36] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/11/25 23:38:52] [ERROR] Can't read from Discord websocket gateway: sslv3 alert bad record mac (SSL routines, ssl3_read_bytes) (336151548)
+[07/11/25 23:38:52] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/11/25 23:54:18] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/11/25 23:54:37] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/11/25 23:55:12] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/12/25 00:00:00] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/12/25 00:02:57] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/12/25 00:03:12] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/12/25 00:08:52] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/12/25 00:27:27] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/12/25 00:42:01] [ERROR] Can't read from Discord websocket gateway: End of file (2)
+[07/12/25 00:42:01] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/12/25 00:49:19] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391586020721426452/messages': end of stream
+[07/12/25 00:57:28] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/12/25 01:00:39] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/12/25 01:02:44] [ERROR] Can't read from Discord websocket gateway: End of file (2)
+[07/12/25 01:02:44] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/12/25 01:03:05] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/12/25 01:05:14] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/12/25 01:17:23] [ERROR] Can't read from Discord websocket gateway: End of file (2)
+[07/12/25 01:17:23] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/12/25 01:28:59] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/12/25 01:29:06] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/12/25 01:37:40] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/12/25 02:08:26] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/12/25 02:16:07] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/12/25 04:30:05] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/12/25 04:52:44] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/12/25 04:52:45] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/12/25 05:45:39] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/12/25 07:30:02] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/12/25 07:30:03] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/12/25 09:07:54] [WARNING] Unknown gateway event 'GUILD_JOIN_REQUEST_UPDATE'
+[07/12/25 09:18:32] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/12/25 09:32:03] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/12/25 09:56:36] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/12/25 10:04:58] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/12/25 10:30:34] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/12/25 10:32:14] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/12/25 11:05:38] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/12/25 11:14:11] [ERROR] Can't read from Discord websocket gateway: Connection reset by peer (104)
+[07/12/25 11:33:43] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/12/25 12:16:21] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391586156243583106/messages': end of stream
+[07/12/25 12:55:30] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/12/25 13:51:25] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/12/25 13:51:26] [ERROR] Discord terminated websocket connection; reason: Not authenticated. (4003)
+[07/12/25 13:51:26] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/12/25 13:51:26] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/12/25 15:18:21] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/12/25 16:11:28] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/12/25 16:11:29] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/12/25 16:39:26] [WARNING] Unknown gateway event 'GUILD_JOIN_REQUEST_UPDATE'
+[07/12/25 16:41:27] [WARNING] Unknown gateway event 'GUILD_JOIN_REQUEST_UPDATE'
+[07/12/25 17:22:12] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/12/25 17:34:13] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/12/25 18:32:52] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/12/25 18:48:47] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/12/25 19:39:38] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/12/25 20:44:42] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/12/25 21:09:38] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/12/25 21:57:16] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/12/25 22:03:36] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/12/25 22:03:36] [ERROR] Discord terminated websocket connection; reason: Not authenticated. (4003)
+[07/12/25 22:03:36] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/12/25 22:03:37] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/12/25 22:08:56] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/12/25 22:15:00] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/12/25 22:31:46] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/12/25 23:26:40] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/13/25 01:30:14] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/13/25 01:46:25] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/13/25 01:46:26] [ERROR] Discord terminated websocket connection; reason: Not authenticated. (4003)
+[07/13/25 01:46:26] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/13/25 01:46:26] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/13/25 02:16:08] [WARNING] Unhandled payload opcode '1'
+[07/13/25 02:27:31] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/13/25 02:36:13] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/13/25 02:40:02] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/13/25 02:40:02] [ERROR] Discord terminated websocket connection; reason: Not authenticated. (4003)
+[07/13/25 02:40:02] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/13/25 03:04:16] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/13/25 03:32:13] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/13/25 03:48:28] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/13/25 03:55:11] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/13/25 04:02:05] [WARNING] Unknown gateway event 'GUILD_JOIN_REQUEST_UPDATE'
+[07/13/25 05:17:09] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/13/25 07:05:26] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/13/25 07:05:26] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/13/25 07:20:26] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/13/25 07:20:27] [ERROR] Discord terminated websocket connection; reason: Not authenticated. (4003)
+[07/13/25 07:20:27] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/13/25 07:20:28] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/13/25 09:49:12] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/13/25 09:49:13] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/13/25 11:46:07] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/13/25 11:46:07] [ERROR] Discord terminated websocket connection; reason: Not authenticated. (4003)
+[07/13/25 11:46:07] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/13/25 11:46:08] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/13/25 12:17:19] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/13/25 12:17:19] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/13/25 13:06:14] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/13/25 13:06:14] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/13/25 13:28:38] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/13/25 13:28:39] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/13/25 15:29:05] [WARNING] Unknown gateway event 'GUILD_JOIN_REQUEST_UPDATE'
+[07/13/25 15:47:56] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/13/25 15:47:57] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/13/25 16:29:35] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/13/25 17:26:56] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/13/25 17:44:02] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/13/25 19:31:28] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391586156243583106/messages': end of stream
+[07/13/25 19:31:28] [WARNING] Error while shutting down SSL on HTTP connection: Broken pipe (32)
+[07/13/25 19:40:54] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391586156243583106/messages': end of stream
+[07/13/25 20:20:53] [WARNING] Unknown gateway event 'GUILD_JOIN_REQUEST_UPDATE'
+[07/13/25 21:15:47] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/13/25 21:15:47] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/13/25 21:21:22] [WARNING] Unknown gateway event 'GUILD_JOIN_REQUEST_UPDATE'
+[07/13/25 21:22:04] [WARNING] Unknown gateway event 'GUILD_JOIN_REQUEST_UPDATE'
+[07/13/25 21:24:20] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/13/25 21:34:56] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391586020721426452/messages': end of stream
+[07/13/25 21:38:22] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/13/25 21:39:05] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/13/25 21:43:04] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/13/25 21:43:12] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/13/25 21:44:52] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/13/25 21:44:53] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/13/25 21:44:58] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/13/25 21:45:08] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/13/25 21:52:34] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391586156243583106/messages': end of stream
+[07/13/25 21:59:30] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/13/25 22:32:35] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/13/25 22:42:40] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/13/25 22:42:41] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/13/25 22:47:52] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/13/25 22:58:20] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584427485827162/messages': end of stream
+[07/13/25 23:05:54] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/13/25 23:05:54] [ERROR] Discord terminated websocket connection; reason: Not authenticated. (4003)
+[07/13/25 23:05:54] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/13/25 23:30:02] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/13/25 23:51:53] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/13/25 23:58:17] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/14/25 00:00:39] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/14/25 00:20:04] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391586822961762396/messages': end of stream
+[07/14/25 00:48:26] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/14/25 00:48:32] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/14/25 00:48:33] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/14/25 00:48:38] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/14/25 00:56:40] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/14/25 01:09:58] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/14/25 01:15:33] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/14/25 01:15:39] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/14/25 01:28:36] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/14/25 01:36:31] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/14/25 02:05:09] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/14/25 02:22:05] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/14/25 02:34:33] [WARNING] Unknown gateway event 'GUILD_JOIN_REQUEST_UPDATE'
+[07/14/25 02:40:25] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/14/25 02:40:25] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/14/25 03:42:22] [WARNING] Unknown gateway event 'GUILD_JOIN_REQUEST_UPDATE'
+[07/14/25 05:20:14] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/14/25 05:36:31] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/14/25 05:36:32] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/14/25 05:45:21] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/14/25 05:58:01] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/14/25 06:21:06] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/14/25 06:31:05] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/14/25 06:58:12] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/14/25 07:13:21] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391586156243583106/messages': end of stream
+[07/14/25 07:26:22] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/14/25 07:32:55] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/14/25 07:59:21] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/14/25 07:59:22] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/14/25 10:24:26] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/14/25 10:24:26] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/14/25 13:40:08] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/14/25 13:40:08] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/14/25 13:40:38] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/14/25 13:40:43] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/14/25 13:51:03] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/14/25 14:41:17] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/14/25 14:41:17] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/14/25 15:11:03] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/14/25 15:11:03] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/14/25 17:47:13] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/14/25 19:07:53] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/14/25 19:07:53] [ERROR] Discord terminated websocket connection; reason: Not authenticated. (4003)
+[07/14/25 19:07:53] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/14/25 19:07:53] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/14/25 19:49:42] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/14/25 20:03:29] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/14/25 20:47:19] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/14/25 20:51:34] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/14/25 21:03:27] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/14/25 21:09:39] [WARNING] Unknown gateway event 'GUILD_JOIN_REQUEST_UPDATE'
+[07/14/25 21:09:42] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/14/25 21:12:57] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/14/25 21:14:00] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/14/25 21:25:54] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/14/25 22:12:46] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/14/25 22:12:47] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/14/25 22:55:00] [ERROR] Can't read from Discord websocket gateway: End of file (2)
+[07/14/25 22:55:00] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/14/25 22:55:00] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/15/25 01:07:25] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/15/25 01:08:59] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/15/25 01:17:39] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/15/25 01:25:49] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/15/25 01:34:44] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/15/25 01:59:45] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/15/25 02:13:11] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/15/25 03:10:49] [ERROR] Can't read from Discord websocket gateway: Connection reset by peer (104)
+[07/15/25 03:10:49] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/15/25 03:55:25] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/15/25 03:57:24] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/15/25 04:29:20] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/15/25 04:41:29] [ERROR] Can't read from Discord websocket gateway: Connection reset by peer (104)
+[07/15/25 05:45:15] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/15/25 05:56:52] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/15/25 06:12:22] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/15/25 06:47:51] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/15/25 06:47:51] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/15/25 08:06:16] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/15/25 08:08:08] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/15/25 08:09:25] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/15/25 08:11:53] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/15/25 08:49:25] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/15/25 08:49:25] [WARNING] Error while shutting down SSL on HTTP connection: Broken pipe (32)
+[07/15/25 09:15:05] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/15/25 09:15:05] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/15/25 09:52:56] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/15/25 09:52:57] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/15/25 10:53:12] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/15/25 10:53:12] [WARNING] Error while shutting down SSL on HTTP connection: Broken pipe (32)
+[07/15/25 11:03:44] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/15/25 11:59:57] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391586822961762396/messages': end of stream
+[07/15/25 11:59:57] [WARNING] Error while shutting down SSL on HTTP connection: Broken pipe (32)
+[07/15/25 12:02:38] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/15/25 12:42:45] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/15/25 13:03:53] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/15/25 13:05:50] [WARNING] Unknown gateway event 'GUILD_JOIN_REQUEST_UPDATE'
+[07/15/25 13:15:37] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/15/25 13:15:37] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/15/25 14:20:19] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/15/25 14:20:19] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/15/25 14:26:08] [ERROR] Can't read from Discord websocket gateway: End of file (2)
+[07/15/25 14:26:08] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/15/25 15:08:20] [ERROR] Can't read from Discord websocket gateway: End of file (2)
+[07/15/25 15:08:20] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/15/25 15:35:39] [WARNING] Unknown gateway event 'GUILD_JOIN_REQUEST_UPDATE'
+[07/15/25 16:01:53] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/15/25 16:10:40] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/15/25 16:21:19] [ERROR] Can't read from Discord websocket gateway: End of file (2)
+[07/15/25 16:21:19] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/15/25 17:09:39] [ERROR] Can't read from Discord websocket gateway: End of file (2)
+[07/15/25 17:09:39] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/15/25 17:09:39] [ERROR] Discord terminated websocket connection; reason: Not authenticated. (4003)
+[07/15/25 17:09:39] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/15/25 20:14:04] [ERROR] Can't read from Discord websocket gateway: End of file (2)
+[07/15/25 21:07:19] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/15/25 21:21:49] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/15/25 21:49:46] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/15/25 22:10:55] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/15/25 22:30:13] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/15/25 22:30:13] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/15/25 23:42:05] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/15/25 23:44:55] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/15/25 23:48:09] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/16/25 00:05:05] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/16/25 00:05:35] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/16/25 00:09:28] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/16/25 00:12:59] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/16/25 00:31:01] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/16/25 00:32:01] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/16/25 01:04:02] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/16/25 01:08:35] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/16/25 01:26:05] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/16/25 01:47:09] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/16/25 01:47:10] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/16/25 04:11:11] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/16/25 04:11:11] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/16/25 08:01:07] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/16/25 08:01:07] [ERROR] Discord terminated websocket connection; reason: Not authenticated. (4003)
+[07/16/25 08:01:07] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/16/25 08:01:08] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/16/25 11:07:10] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/16/25 11:07:10] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/16/25 12:06:43] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/16/25 12:07:06] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/16/25 12:27:25] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/16/25 12:27:26] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/16/25 12:54:00] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/16/25 13:51:14] [WARNING] Unknown gateway event 'GUILD_JOIN_REQUEST_UPDATE'
+[07/16/25 14:22:50] [ERROR] Can't read from Discord websocket gateway: End of file (2)
+[07/16/25 14:22:50] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/16/25 14:39:41] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/16/25 14:53:35] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/16/25 14:59:47] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/16/25 15:06:17] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/16/25 15:06:17] [WARNING] Error while shutting down SSL on HTTP connection: Broken pipe (32)
+[07/16/25 15:52:29] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/16/25 16:07:56] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/16/25 17:26:03] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/16/25 17:29:58] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/16/25 17:34:09] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/16/25 18:11:20] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/16/25 18:25:08] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/16/25 19:02:05] [WARNING] Unknown gateway event 'GUILD_JOIN_REQUEST_UPDATE'
+[07/16/25 19:38:34] [WARNING] Unknown gateway event 'GUILD_JOIN_REQUEST_UPDATE'
+[07/16/25 19:56:32] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/16/25 19:57:07] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/16/25 21:11:02] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/16/25 21:21:34] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/16/25 22:07:23] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/16/25 22:33:07] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/17/25 09:29:40] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391585012712869968/messages': end of stream
+[07/17/25 09:29:40] [WARNING] Error while shutting down SSL on HTTP connection: Broken pipe (32)
+[07/17/25 10:41:53] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/17/25 10:41:53] [WARNING] Error while shutting down SSL on HTTP connection: Broken pipe (32)
+[07/17/25 12:04:09] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/17/25 12:04:09] [ERROR] Discord terminated websocket connection; reason: Not authenticated. (4003)
+[07/17/25 12:04:09] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/17/25 12:47:52] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391586156243583106/messages': end of stream
+[07/17/25 12:47:52] [WARNING] Error while shutting down SSL on HTTP connection: Broken pipe (32)
+[07/17/25 13:12:16] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/17/25 14:54:26] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/17/25 15:59:56] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/17/25 15:59:56] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/17/25 17:08:32] [ERROR] Can't read from Discord websocket gateway: End of file (2)
+[07/17/25 17:08:32] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/17/25 17:08:32] [ERROR] Discord terminated websocket connection; reason: Not authenticated. (4003)
+[07/17/25 17:46:29] [ERROR] Can't read from Discord websocket gateway: End of file (2)
+[07/17/25 17:46:29] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/17/25 17:58:14] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/17/25 18:07:58] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/17/25 18:07:58] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/17/25 18:25:10] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/17/25 20:04:56] [ERROR] Can't read from Discord websocket gateway: End of file (2)
+[07/17/25 20:04:56] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/17/25 20:14:38] [ERROR] Can't read from Discord websocket gateway: End of file (2)
+[07/17/25 20:14:38] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/17/25 20:37:31] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/17/25 21:07:46] [WARNING] Unknown gateway event 'GUILD_JOIN_REQUEST_UPDATE'
+[07/17/25 21:08:09] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/17/25 21:11:52] [WARNING] Unknown gateway event 'GUILD_JOIN_REQUEST_UPDATE'
+[07/17/25 21:13:04] [WARNING] Unknown gateway event 'GUILD_JOIN_REQUEST_UPDATE'
+[07/17/25 21:23:08] [WARNING] Unknown gateway event 'GUILD_JOIN_REQUEST_UPDATE'
+[07/17/25 21:26:43] [WARNING] Unknown gateway event 'GUILD_JOIN_REQUEST_UPDATE'
+[07/17/25 21:27:38] [WARNING] Unknown gateway event 'GUILD_JOIN_REQUEST_UPDATE'
+[07/17/25 21:28:21] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/17/25 21:28:27] [ERROR] Can't read from Discord websocket gateway: End of file (2)
+[07/17/25 21:28:27] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/17/25 21:29:36] [WARNING] Unknown gateway event 'GUILD_JOIN_REQUEST_UPDATE'
+[07/17/25 21:29:55] [WARNING] Unknown gateway event 'GUILD_JOIN_REQUEST_UPDATE'
+[07/17/25 21:40:08] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/17/25 21:50:11] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/17/25 22:07:31] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/17/25 22:40:31] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/17/25 23:02:52] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/17/25 23:05:14] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/17/25 23:06:31] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/17/25 23:08:13] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/17/25 23:29:45] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/17/25 23:35:11] [WARNING] Unknown gateway event 'GUILD_JOIN_REQUEST_UPDATE'
+[07/18/25 02:28:50] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/18/25 03:34:11] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/18/25 03:34:11] [WARNING] Error while shutting down SSL on HTTP connection: Broken pipe (32)
+[07/18/25 04:42:55] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/18/25 04:42:55] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/18/25 08:04:45] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/18/25 08:04:45] [WARNING] Error while shutting down SSL on HTTP connection: Broken pipe (32)
+[07/18/25 08:56:07] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/18/25 09:06:49] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/18/25 09:09:37] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/18/25 09:29:42] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/18/25 09:29:42] [ERROR] Discord terminated websocket connection; reason: Not authenticated. (4003)
+[07/18/25 09:29:42] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/18/25 10:20:41] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/18/25 10:42:05] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/18/25 10:54:43] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/18/25 10:59:38] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/18/25 11:52:30] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/18/25 11:52:31] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/18/25 13:05:38] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/18/25 13:15:50] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/18/25 13:45:23] [ERROR] Can't read from Discord websocket gateway: End of file (2)
+[07/18/25 13:45:23] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/18/25 17:09:49] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/18/25 17:09:49] [ERROR] Discord terminated websocket connection; reason: Not authenticated. (4003)
+[07/18/25 17:09:49] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/18/25 17:09:50] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/18/25 17:50:06] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/18/25 17:50:06] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/18/25 17:58:42] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/18/25 18:14:18] [WARNING] Unknown gateway event 'GUILD_JOIN_REQUEST_UPDATE'
+[07/18/25 18:36:46] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/18/25 18:45:41] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/18/25 19:10:53] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/18/25 19:12:53] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/18/25 19:15:43] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/18/25 19:49:33] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/18/25 19:59:17] [WARNING] Unknown gateway event 'GUILD_JOIN_REQUEST_UPDATE'
+[07/18/25 20:17:22] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1391585012712869968/messages': end of stream
+[07/18/25 20:31:03] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/18/25 20:40:29] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/18/25 20:40:30] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/18/25 21:18:53] [ERROR] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/18/25 21:18:53] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/18/25 22:46:56] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'
+[07/18/25 22:47:52] [WARNING] Unknown gateway event 'VOICE_CHANNEL_STATUS_UPDATE'

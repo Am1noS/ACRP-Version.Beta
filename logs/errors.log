@@ -1,0 +1,512 @@
+[07/07/25 13:37:42] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1387928917859368991/messages': end of stream
+[07/07/25 13:48:14] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1387928917859368991/messages': end of stream
+[07/07/25 15:09:29] [plugins/discord-connector] Can't read from Discord websocket gateway: Connection reset by peer (104)
+[07/07/25 15:09:29] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/07/25 15:43:20] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1387928040675213383/messages': end of stream
+[07/07/25 16:24:08] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1387928040675213383/messages': end of stream
+[07/07/25 16:46:33] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1387928259324412064/messages': end of stream
+[07/07/25 16:58:50] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1357092424878395523/messages': end of stream
+[07/07/25 17:03:51] [plugins/discord-connector] Discord terminated websocket connection; reason:  (1001)
+[07/07/25 17:03:51] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/07/25 17:08:32] [plugins/discord-connector] Can't read from Discord websocket gateway: End of file (2)
+[07/07/25 17:22:48] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1387928040675213383/messages': end of stream
+[07/07/25 17:37:47] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1357092424878395523/messages': end of stream
+[07/07/25 17:46:34] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1387928917859368991/messages': end of stream
+[07/07/25 17:52:07] [plugins/discord-connector] Can't read from Discord websocket gateway: Connection reset by peer (104)
+[07/07/25 17:52:07] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/07/25 18:27:35] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1357092424878395523/messages': end of stream
+[07/07/25 18:46:21] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1387928259324412064/messages': end of stream
+[07/07/25 18:58:30] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1357092424878395523/messages': end of stream
+[07/07/25 19:16:38] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1387928040675213383/messages': end of stream
+[07/07/25 21:06:12] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1357092424878395523/messages': end of stream
+[07/07/25 21:22:17] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/07/25 21:49:38] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1387928040675213383/messages': end of stream
+[07/07/25 22:05:16] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1387929021035057173/messages': end of stream
+[07/07/25 23:09:42] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/07/25 23:09:42] [plugins/discord-connector] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/07/25 23:29:30] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1387928040675213383/messages': end of stream
+[07/07/25 23:37:15] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1357092424878395523/messages': end of stream
+[07/08/25 00:03:41] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/08/25 00:03:42] [plugins/discord-connector] Discord terminated websocket connection; reason: Not authenticated. (4003)
+[07/08/25 00:03:42] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/08/25 00:03:42] [plugins/discord-connector] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/08/25 00:51:01] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1357092424878395523/messages': end of stream
+[07/08/25 00:58:07] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1387928259324412064/messages': end of stream
+[07/08/25 01:28:36] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1357092424878395523/messages': end of stream
+[07/08/25 01:54:37] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/08/25 01:54:38] [plugins/discord-connector] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/08/25 02:18:43] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1357092424878395523/messages': end of stream
+[07/08/25 03:05:49] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1387928917859368991/messages': end of stream
+[07/08/25 04:14:27] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1357092424878395523/messages': end of stream
+[07/08/25 04:25:21] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1387928259324412064/messages': end of stream
+[07/08/25 04:52:58] [plugins/discord-connector] Can't read from Discord websocket gateway: End of file (2)
+[07/08/25 04:52:58] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/08/25 04:52:58] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/08/25 05:08:02] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/08/25 05:08:03] [plugins/discord-connector] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/08/25 06:58:24] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/08/25 06:58:24] [plugins/discord-connector] Discord terminated websocket connection; reason: Not authenticated. (4003)
+[07/08/25 06:58:24] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/08/25 06:58:25] [plugins/discord-connector] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/08/25 08:42:26] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/08/25 08:42:26] [plugins/discord-connector] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/08/25 09:10:46] [plugins/discord-connector] Can't read from Discord websocket gateway: End of file (2)
+[07/08/25 09:10:46] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/08/25 09:16:51] [plugins/discord-connector] Can't read from Discord websocket gateway: End of file (2)
+[07/08/25 09:16:51] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/08/25 10:18:17] [plugins/discord-connector] Can't read from Discord websocket gateway: End of file (2)
+[07/08/25 10:18:17] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/08/25 10:40:35] [plugins/discord-connector] Can't read from Discord websocket gateway: End of file (2)
+[07/08/25 10:40:35] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/08/25 11:01:05] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/08/25 11:01:05] [plugins/discord-connector] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/08/25 13:35:44] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1357092424878395523/messages': end of stream
+[07/08/25 13:51:21] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1387928040675213383/messages': end of stream
+[07/08/25 14:00:23] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/08/25 14:00:24] [plugins/discord-connector] Discord terminated websocket connection; reason: Not authenticated. (4003)
+[07/08/25 14:00:24] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/08/25 14:35:05] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1357092424878395523/messages': end of stream
+[07/08/25 14:53:59] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1357092424878395523/messages': end of stream
+[07/08/25 16:04:04] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1357092424878395523/messages': end of stream
+[07/08/25 16:23:28] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1387928040675213383/messages': end of stream
+[07/08/25 16:31:24] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1387928040675213383/messages': end of stream
+[07/08/25 16:43:00] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1387928040675213383/messages': end of stream
+[07/08/25 16:53:14] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1387928040675213383/messages': end of stream
+[07/08/25 17:01:00] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/08/25 17:01:00] [plugins/discord-connector] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/08/25 17:17:32] [plugins/discord-connector] DCC_SendChannelMessage: invalid channel id '173'
+[07/08/25 17:17:32] [plugins/discord-connector] DCC_SendChannelEmbedMessage: invalid channel id '163'
+[07/08/25 17:29:12] [plugins/discord-connector] DCC_SendChannelMessage: invalid channel id '25'
+[07/08/25 17:30:29] [plugins/discord-connector] DCC_SendChannelMessage: invalid channel id '25'
+[07/08/25 17:30:31] [plugins/discord-connector] DCC_SendChannelMessage: invalid channel id '25'
+[07/08/25 17:30:31] [plugins/discord-connector] DCC_SendChannelMessage: invalid channel id '25'
+[07/08/25 17:30:53] [plugins/discord-connector] DCC_SendChannelMessage: invalid channel id '25'
+[07/08/25 17:30:54] [plugins/discord-connector] DCC_SendChannelMessage: invalid channel id '25'
+[07/08/25 17:30:54] [plugins/discord-connector] DCC_SendChannelMessage: invalid channel id '25'
+[07/08/25 17:30:54] [plugins/discord-connector] DCC_SendChannelMessage: invalid channel id '25'
+[07/08/25 17:30:57] [plugins/discord-connector] DCC_SendChannelMessage: invalid channel id '171'
+[07/08/25 17:31:04] [plugins/discord-connector] DCC_SendChannelMessage: invalid channel id '25'
+[07/08/25 17:33:01] [plugins/discord-connector] DCC_SendChannelMessage: invalid channel id '171'
+[07/08/25 17:34:35] [plugins/discord-connector] DCC_SendChannelMessage: invalid channel id '2'
+[07/08/25 17:34:35] [plugins/discord-connector] DCC_SendChannelMessage: invalid channel id '112'
+[07/08/25 17:34:54] [plugins/discord-connector] DCC_SendChannelMessage: invalid channel id '125'
+[07/08/25 17:37:48] [plugins/discord-connector] DCC_SendChannelMessage: invalid channel id '25'
+[07/08/25 17:38:41] [plugins/discord-connector] DCC_SendChannelMessage: invalid channel id '171'
+[07/08/25 17:45:09] [plugins/discord-connector] DCC_SendChannelMessage: invalid channel id '129'
+[07/08/25 18:25:09] [plugins/discord-connector] DCC_SendChannelMessage: invalid channel id '0'
+[07/08/25 18:25:09] [plugins/discord-connector] DCC_SendChannelMessage: invalid channel id '0'
+[07/08/25 20:31:47] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/08/25 20:31:48] [plugins/discord-connector] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/08/25 21:43:52] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/08/25 22:07:25] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391586822961762396/messages': end of stream
+[07/08/25 22:24:43] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/08/25 23:24:05] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/09/25 00:11:27] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/09/25 00:11:27] [plugins/discord-connector] Discord terminated websocket connection; reason: Not authenticated. (4003)
+[07/09/25 00:11:27] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/09/25 00:30:52] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/09/25 01:20:05] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/09/25 01:29:19] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/09/25 01:44:40] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391586303476236348/messages': end of stream
+[07/09/25 03:35:12] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/09/25 03:35:12] [plugins/discord-connector] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/09/25 04:10:50] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/09/25 04:10:50] [plugins/discord-connector] Discord terminated websocket connection; reason: Not authenticated. (4003)
+[07/09/25 04:10:50] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/09/25 04:10:51] [plugins/discord-connector] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/09/25 04:22:41] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/09/25 04:49:41] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/09/25 04:49:42] [plugins/discord-connector] Discord terminated websocket connection; reason: Not authenticated. (4003)
+[07/09/25 04:49:42] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/09/25 04:49:42] [plugins/discord-connector] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/09/25 07:33:57] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/09/25 07:33:57] [plugins/discord-connector] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/09/25 08:08:45] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/09/25 08:08:45] [plugins/discord-connector] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/09/25 10:49:40] [plugins/discord-connector] Can't read from Discord websocket gateway: End of file (2)
+[07/09/25 10:49:40] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/09/25 12:19:46] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/09/25 12:19:47] [plugins/discord-connector] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/09/25 13:00:39] [plugins/discord-connector] Can't read from Discord websocket gateway: End of file (2)
+[07/09/25 13:00:39] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/09/25 13:41:14] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/09/25 14:10:22] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391585012712869968/messages': end of stream
+[07/09/25 14:17:46] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/09/25 14:39:12] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391586156243583106/messages': end of stream
+[07/09/25 14:48:39] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/09/25 15:40:36] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/09/25 15:40:36] [plugins/discord-connector] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/09/25 16:32:34] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/09/25 16:50:32] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/09/25 17:08:25] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/09/25 17:29:37] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/09/25 17:37:26] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/09/25 18:27:16] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/09/25 18:27:17] [plugins/discord-connector] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/09/25 20:20:13] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/09/25 20:36:29] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/09/25 21:45:24] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/09/25 21:45:25] [plugins/discord-connector] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/09/25 22:36:29] [plugins/discord-connector] Can't read from Discord websocket gateway: End of file (2)
+[07/09/25 22:36:29] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/09/25 23:25:25] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/10/25 00:29:54] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/10/25 00:40:59] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/10/25 01:05:30] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391586303476236348/messages': end of stream
+[07/10/25 01:26:50] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391586822961762396/messages': end of stream
+[07/10/25 01:41:55] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/10/25 02:24:41] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/10/25 03:07:19] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/10/25 03:07:19] [plugins/discord-connector] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/10/25 05:05:43] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/10/25 05:05:44] [plugins/discord-connector] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/10/25 06:02:56] [plugins/discord-connector] Can't read from Discord websocket gateway: End of file (2)
+[07/10/25 06:02:56] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/10/25 06:58:00] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/10/25 06:58:00] [plugins/discord-connector] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/10/25 09:01:39] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/10/25 09:01:39] [plugins/discord-connector] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/10/25 10:21:05] [plugins/discord-connector] Can't read from Discord websocket gateway: unspecified system error (2)
+[07/10/25 10:21:05] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/10/25 10:21:05] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/10/25 11:57:51] [plugins/discord-connector] Can't read from Discord websocket gateway: End of file (2)
+[07/10/25 11:57:51] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/10/25 14:52:06] [plugins/discord-connector] Can't read from Discord websocket gateway: End of file (2)
+[07/10/25 14:52:06] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/10/25 15:21:28] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/10/25 18:16:45] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/10/25 18:31:42] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/10/25 18:31:43] [plugins/discord-connector] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/10/25 19:14:10] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/10/25 19:28:29] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391586156243583106/messages': end of stream
+[07/10/25 19:48:01] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/10/25 20:29:43] [plugins/discord-connector] Can't read from Discord websocket gateway: End of file (2)
+[07/10/25 20:29:43] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/10/25 20:29:43] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/10/25 21:32:36] [plugins/discord-connector] Can't read from Discord websocket gateway: End of file (2)
+[07/10/25 21:32:36] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/10/25 21:41:36] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/10/25 22:27:14] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/10/25 23:27:11] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/10/25 23:57:56] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/10/25 23:57:57] [plugins/discord-connector] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/11/25 00:38:49] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391585953457635328/messages': end of stream
+[07/11/25 00:56:08] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/11/25 00:58:22] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/11/25 00:58:22] [plugins/discord-connector] Discord terminated websocket connection; reason: Not authenticated. (4003)
+[07/11/25 00:58:22] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/11/25 02:31:46] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/11/25 02:31:47] [plugins/discord-connector] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/11/25 02:55:12] [plugins/discord-connector] Can't read from Discord websocket gateway: End of file (2)
+[07/11/25 02:55:12] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/11/25 03:11:02] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/11/25 03:26:25] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/11/25 03:26:25] [plugins/discord-connector] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/11/25 03:34:24] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391586156243583106/messages': end of stream
+[07/11/25 04:41:04] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/11/25 05:12:06] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391585012712869968/messages': end of stream
+[07/11/25 08:18:08] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/11/25 11:44:52] [plugins/discord-connector] Can't read from Discord websocket gateway: End of file (2)
+[07/11/25 11:44:52] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/11/25 11:55:05] [plugins/discord-connector] Can't read from Discord websocket gateway: End of file (2)
+[07/11/25 11:55:05] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/11/25 13:19:39] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/11/25 13:19:39] [plugins/discord-connector] Discord terminated websocket connection; reason: Not authenticated. (4003)
+[07/11/25 13:19:39] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/11/25 13:19:40] [plugins/discord-connector] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/11/25 14:22:34] [plugins/discord-connector] Can't read from Discord websocket gateway: End of file (2)
+[07/11/25 14:22:34] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/11/25 14:32:25] [plugins/discord-connector] Discord terminated websocket connection; reason: CloudFlare WebSocket proxy restarting (1001)
+[07/11/25 14:32:25] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/11/25 14:32:26] [plugins/discord-connector] Discord terminated websocket connection; reason: Not authenticated. (4003)
+[07/11/25 14:32:26] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/11/25 14:32:26] [plugins/discord-connector] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/11/25 16:17:54] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/11/25 16:17:55] [plugins/discord-connector] Discord terminated websocket connection; reason: Not authenticated. (4003)
+[07/11/25 16:17:55] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/11/25 16:17:55] [plugins/discord-connector] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/11/25 17:47:00] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/11/25 17:57:59] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/11/25 18:09:22] [plugins/discord-connector] Can't read from Discord websocket gateway: End of file (2)
+[07/11/25 18:09:22] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/11/25 19:07:15] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/11/25 19:18:43] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391586156243583106/messages': end of stream
+[07/11/25 20:12:44] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/11/25 20:30:29] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1353071139953442816/messages': end of stream
+[07/11/25 20:53:56] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/11/25 22:16:58] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/11/25 22:54:35] [plugins/discord-connector] Can't read from Discord websocket gateway: End of file (2)
+[07/11/25 22:54:35] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/11/25 22:54:36] [plugins/discord-connector] Discord terminated websocket connection; reason: Not authenticated. (4003)
+[07/11/25 22:54:36] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/11/25 23:38:52] [plugins/discord-connector] Can't read from Discord websocket gateway: sslv3 alert bad record mac (SSL routines, ssl3_read_bytes) (336151548)
+[07/11/25 23:38:52] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/12/25 00:08:52] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/12/25 00:42:01] [plugins/discord-connector] Can't read from Discord websocket gateway: End of file (2)
+[07/12/25 00:42:01] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/12/25 00:49:19] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391586020721426452/messages': end of stream
+[07/12/25 01:00:39] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/12/25 01:02:44] [plugins/discord-connector] Can't read from Discord websocket gateway: End of file (2)
+[07/12/25 01:02:44] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/12/25 01:17:23] [plugins/discord-connector] Can't read from Discord websocket gateway: End of file (2)
+[07/12/25 01:17:23] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/12/25 02:08:26] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/12/25 04:30:05] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/12/25 04:52:44] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/12/25 04:52:45] [plugins/discord-connector] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/12/25 07:30:02] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/12/25 07:30:03] [plugins/discord-connector] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/12/25 09:18:32] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/12/25 09:32:03] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/12/25 09:56:36] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/12/25 10:04:58] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/12/25 10:30:34] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/12/25 10:32:14] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/12/25 11:05:38] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/12/25 11:14:11] [plugins/discord-connector] Can't read from Discord websocket gateway: Connection reset by peer (104)
+[07/12/25 11:33:43] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/12/25 12:16:21] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391586156243583106/messages': end of stream
+[07/12/25 13:51:25] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/12/25 13:51:26] [plugins/discord-connector] Discord terminated websocket connection; reason: Not authenticated. (4003)
+[07/12/25 13:51:26] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/12/25 13:51:26] [plugins/discord-connector] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/12/25 15:18:21] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/12/25 16:11:28] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/12/25 16:11:29] [plugins/discord-connector] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/12/25 17:22:12] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/12/25 17:34:13] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/12/25 18:32:52] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/12/25 18:48:47] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/12/25 19:39:38] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/12/25 22:03:36] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/12/25 22:03:36] [plugins/discord-connector] Discord terminated websocket connection; reason: Not authenticated. (4003)
+[07/12/25 22:03:36] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/12/25 22:03:37] [plugins/discord-connector] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/12/25 22:15:00] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/12/25 22:31:46] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/12/25 23:26:40] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/13/25 01:30:14] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/13/25 01:46:25] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/13/25 01:46:26] [plugins/discord-connector] Discord terminated websocket connection; reason: Not authenticated. (4003)
+[07/13/25 01:46:26] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/13/25 01:46:26] [plugins/discord-connector] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/13/25 02:27:31] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/13/25 02:36:13] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/13/25 02:40:02] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/13/25 02:40:02] [plugins/discord-connector] Discord terminated websocket connection; reason: Not authenticated. (4003)
+[07/13/25 02:40:02] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/13/25 03:04:16] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/13/25 03:32:13] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/13/25 03:48:28] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/13/25 05:17:09] [plugins/discord-connector] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/13/25 07:05:26] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/13/25 07:05:26] [plugins/discord-connector] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/13/25 07:20:26] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/13/25 07:20:27] [plugins/discord-connector] Discord terminated websocket connection; reason: Not authenticated. (4003)
+[07/13/25 07:20:27] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/13/25 07:20:28] [plugins/discord-connector] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/13/25 09:49:12] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/13/25 09:49:13] [plugins/discord-connector] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/13/25 11:46:07] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/13/25 11:46:07] [plugins/discord-connector] Discord terminated websocket connection; reason: Not authenticated. (4003)
+[07/13/25 11:46:07] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/13/25 11:46:08] [plugins/discord-connector] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/13/25 12:17:19] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/13/25 12:17:19] [plugins/discord-connector] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/13/25 13:06:14] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/13/25 13:06:14] [plugins/discord-connector] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/13/25 13:28:38] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/13/25 13:28:39] [plugins/discord-connector] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/13/25 15:47:56] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/13/25 15:47:57] [plugins/discord-connector] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/13/25 16:29:35] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/13/25 17:26:56] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/13/25 17:44:02] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/13/25 19:31:28] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391586156243583106/messages': end of stream
+[07/13/25 19:40:54] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391586156243583106/messages': end of stream
+[07/13/25 21:15:47] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/13/25 21:15:47] [plugins/discord-connector] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/13/25 21:34:56] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391586020721426452/messages': end of stream
+[07/13/25 21:52:34] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391586156243583106/messages': end of stream
+[07/13/25 22:58:20] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584427485827162/messages': end of stream
+[07/13/25 23:05:54] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/13/25 23:05:54] [plugins/discord-connector] Discord terminated websocket connection; reason: Not authenticated. (4003)
+[07/13/25 23:05:54] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/13/25 23:51:53] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/14/25 00:00:39] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/14/25 00:20:04] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391586822961762396/messages': end of stream
+[07/14/25 01:09:58] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/14/25 01:28:36] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/14/25 01:36:31] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/14/25 02:05:09] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/14/25 02:22:05] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/14/25 02:40:25] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/14/25 02:40:25] [plugins/discord-connector] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/14/25 05:20:14] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/14/25 05:36:31] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/14/25 05:36:32] [plugins/discord-connector] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/14/25 05:45:21] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/14/25 05:58:01] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/14/25 06:21:06] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/14/25 06:31:05] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/14/25 06:58:12] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/14/25 07:13:21] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391586156243583106/messages': end of stream
+[07/14/25 07:26:22] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/14/25 07:59:21] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/14/25 07:59:22] [plugins/discord-connector] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/14/25 10:24:26] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/14/25 10:24:26] [plugins/discord-connector] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/14/25 13:40:08] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/14/25 13:40:08] [plugins/discord-connector] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/14/25 14:41:17] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/14/25 14:41:17] [plugins/discord-connector] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/14/25 15:11:03] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/14/25 15:11:03] [plugins/discord-connector] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/14/25 19:07:53] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/14/25 19:07:53] [plugins/discord-connector] Discord terminated websocket connection; reason: Not authenticated. (4003)
+[07/14/25 19:07:53] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/14/25 19:07:53] [plugins/discord-connector] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/14/25 19:49:42] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/14/25 20:03:29] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/14/25 20:51:34] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/14/25 21:14:00] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/14/25 22:12:46] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/14/25 22:12:47] [plugins/discord-connector] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/14/25 22:55:00] [plugins/discord-connector] Can't read from Discord websocket gateway: End of file (2)
+[07/14/25 22:55:00] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/14/25 22:55:00] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/15/25 01:08:59] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/15/25 01:17:39] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/15/25 01:25:49] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/15/25 01:34:44] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/15/25 01:59:45] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/15/25 03:10:49] [plugins/discord-connector] Can't read from Discord websocket gateway: Connection reset by peer (104)
+[07/15/25 03:10:49] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/15/25 03:57:24] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/15/25 04:29:20] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/15/25 04:41:29] [plugins/discord-connector] Can't read from Discord websocket gateway: Connection reset by peer (104)
+[07/15/25 05:45:15] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/15/25 05:56:52] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/15/25 06:12:22] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/15/25 06:47:51] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/15/25 06:47:51] [plugins/discord-connector] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/15/25 08:11:53] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/15/25 08:49:25] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/15/25 09:15:05] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/15/25 09:15:05] [plugins/discord-connector] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/15/25 09:52:56] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/15/25 09:52:57] [plugins/discord-connector] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/15/25 10:53:12] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/15/25 11:59:57] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391586822961762396/messages': end of stream
+[07/15/25 12:02:38] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/15/25 12:42:45] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/15/25 13:15:37] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/15/25 13:15:37] [plugins/discord-connector] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/15/25 14:20:19] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/15/25 14:20:19] [plugins/discord-connector] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/15/25 14:26:08] [plugins/discord-connector] Can't read from Discord websocket gateway: End of file (2)
+[07/15/25 14:26:08] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/15/25 15:08:20] [plugins/discord-connector] Can't read from Discord websocket gateway: End of file (2)
+[07/15/25 15:08:20] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/15/25 16:01:53] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/15/25 16:21:19] [plugins/discord-connector] Can't read from Discord websocket gateway: End of file (2)
+[07/15/25 16:21:19] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/15/25 17:09:39] [plugins/discord-connector] Can't read from Discord websocket gateway: End of file (2)
+[07/15/25 17:09:39] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/15/25 17:09:39] [plugins/discord-connector] Discord terminated websocket connection; reason: Not authenticated. (4003)
+[07/15/25 17:09:39] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/15/25 20:14:04] [plugins/discord-connector] Can't read from Discord websocket gateway: End of file (2)
+[07/15/25 21:07:19] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/15/25 21:21:49] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/15/25 22:30:13] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/15/25 22:30:13] [plugins/discord-connector] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/15/25 23:44:55] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/16/25 00:31:01] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/16/25 01:04:02] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/16/25 01:26:05] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/16/25 01:47:09] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/16/25 01:47:10] [plugins/discord-connector] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/16/25 04:11:11] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/16/25 04:11:11] [plugins/discord-connector] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/16/25 08:01:07] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/16/25 08:01:07] [plugins/discord-connector] Discord terminated websocket connection; reason: Not authenticated. (4003)
+[07/16/25 08:01:07] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/16/25 08:01:08] [plugins/discord-connector] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/16/25 11:07:10] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/16/25 11:07:10] [plugins/discord-connector] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/16/25 12:27:25] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/16/25 12:27:26] [plugins/discord-connector] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/16/25 12:54:00] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/16/25 14:22:50] [plugins/discord-connector] Can't read from Discord websocket gateway: End of file (2)
+[07/16/25 14:22:50] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/16/25 14:39:41] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/16/25 15:06:17] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/16/25 15:52:29] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/16/25 16:07:56] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/16/25 17:26:03] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/16/25 19:56:32] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/16/25 21:11:02] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/16/25 21:21:34] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/16/25 22:33:07] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/17/25 09:29:40] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391585012712869968/messages': end of stream
+[07/17/25 10:41:53] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/17/25 12:04:09] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/17/25 12:04:09] [plugins/discord-connector] Discord terminated websocket connection; reason: Not authenticated. (4003)
+[07/17/25 12:04:09] [plugins/discord-connector] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/17/25 12:47:52] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391586156243583106/messages': end of stream
+[07/17/25 15:59:56] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/17/25 15:59:56] [plugins/discord-connector] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/17/25 17:08:32] [plugins/discord-connector] Can't read from Discord websocket gateway: End of file (2)
+[07/17/25 17:08:32] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/17/25 17:08:32] [plugins/discord-connector] Discord terminated websocket connection; reason: Not authenticated. (4003)
+[07/17/25 17:46:29] [plugins/discord-connector] Can't read from Discord websocket gateway: End of file (2)
+[07/17/25 17:46:29] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/17/25 18:07:58] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/17/25 18:07:58] [plugins/discord-connector] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/17/25 18:25:10] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/17/25 20:04:56] [plugins/discord-connector] Can't read from Discord websocket gateway: End of file (2)
+[07/17/25 20:04:56] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/17/25 20:14:38] [plugins/discord-connector] Can't read from Discord websocket gateway: End of file (2)
+[07/17/25 20:14:38] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/17/25 20:37:31] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/17/25 21:28:21] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/17/25 21:28:27] [plugins/discord-connector] Can't read from Discord websocket gateway: End of file (2)
+[07/17/25 21:28:27] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/17/25 21:40:08] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/17/25 21:50:11] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/17/25 22:07:31] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/17/25 23:02:52] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/18/25 03:34:11] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/18/25 04:42:55] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/18/25 04:42:55] [plugins/discord-connector] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/18/25 08:04:45] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/18/25 08:56:07] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/18/25 09:09:37] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/18/25 09:29:42] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/18/25 09:29:42] [plugins/discord-connector] Discord terminated websocket connection; reason: Not authenticated. (4003)
+[07/18/25 09:29:42] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/18/25 10:20:41] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/18/25 10:42:05] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/18/25 10:54:43] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584759498407946/messages': end of stream
+[07/18/25 10:59:38] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/18/25 11:52:30] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/18/25 11:52:31] [plugins/discord-connector] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/18/25 13:05:38] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/18/25 13:15:50] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/18/25 13:45:23] [plugins/discord-connector] Can't read from Discord websocket gateway: End of file (2)
+[07/18/25 13:45:23] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/18/25 17:09:49] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/18/25 17:09:49] [plugins/discord-connector] Discord terminated websocket connection; reason: Not authenticated. (4003)
+[07/18/25 17:09:49] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/18/25 17:09:50] [plugins/discord-connector] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/18/25 17:50:06] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/18/25 17:50:06] [plugins/discord-connector] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/18/25 17:58:42] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/18/25 18:36:46] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/18/25 19:12:53] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/18/25 19:49:33] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391584674509488179/messages': end of stream
+[07/18/25 20:17:22] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v10/channels/1391585012712869968/messages': end of stream
+[07/18/25 20:40:29] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/18/25 20:40:30] [plugins/discord-connector] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[07/18/25 21:18:53] [plugins/discord-connector] Can't write to Discord websocket gateway: Operation canceled (125)
+[07/18/25 21:18:53] [plugins/discord-connector] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream

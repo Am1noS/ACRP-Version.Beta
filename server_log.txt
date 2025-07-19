@@ -1,0 +1,633 @@
+----------
+[Ultra-H.com] SA:MP Server #720 is starting...
+----------
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:34:31] password = ""  (string)
+[23:34:31] weburl = "www.sa-mp.com"  (string)
+[23:34:31] 
+[23:34:31] Server Plugins
+[23:34:31] --------------
+[23:34:31]  Loading plugin: sampvoice.so
+[23:34:31] [sv:dbg:network:init] : module initializing...
+[23:34:31] [dbg:raknet:init] : module initializing...
+[23:34:31] [dbg:raknet:init] : installed hook to 'GetRakServerInterface' function (ptr:0x806ca30)
+[23:34:31] [dbg:raknet:init] : installed hook to 'OnPlayerDisconnect' function (ptr:0x80a51d0)
+[23:34:31] [dbg:raknet:init] : module initialized
+[23:34:31] [sv:dbg:network:init] : module initialized
+[23:34:31]  -------------------------------------------    
+[23:34:31]    ___                __   __    _              
+[23:34:31]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[23:34:31]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[23:34:31]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[23:34:31]                   |_|                           
+[23:34:31]  -------------------------------------------    
+[23:34:31]            SampVoice by MOR loaded              
+[23:34:31]  -------------------------------------------    
+[23:34:31]   Loaded.
+[23:34:31]  Loading plugin: crashdetect.so
+[23:34:31]   CrashDetect plugin 4.20
+[23:34:31]   Loaded.
+[23:34:31]  Loading plugin: whirlpool.so
+[23:34:31]  
+[23:34:31]  ==================
+[23:34:31]  
+[23:34:31]   Whirlpool loaded
+[23:34:31]  
+[23:34:31]  ==================
+[23:34:31]  
+[23:34:31]   Loaded.
+[23:34:31]  Loading plugin: pawncmd.so
+[23:34:31] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[23:34:31]   Loaded.
+[23:34:31]  Loading plugin: sscanf.so
+[23:34:31] 
+
+[23:34:31]  ===============================
+
+[23:34:31]       sscanf plugin loaded.     
+
+[23:34:31]          Version:  2.8.3        
+
+[23:34:31]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:34:31]  ===============================
+
+[23:34:31]   Loaded.
+[23:34:31]  Loading plugin: streamer.so
+[23:34:31] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[23:34:31]   Loaded.
+[23:34:31]  Loading plugin: SKY.so
+[23:34:31]   Loaded.
+[23:34:31]  Loading plugin: mysql_static.so
+[23:34:31]  >> plugin.mysql: R39-6 successfully loaded.
+[23:34:31]   Loaded.
+[23:34:31]  Loading plugin: nativechecker.so
+[23:34:31]   Loaded.
+[23:34:31]  Loading plugin: discord-connector.so
+[23:34:33]  >> discord-connector: 0.3.6 successfully loaded.
+[23:34:33]   Loaded.
+[23:34:33]  Loading plugin: core.so
+[23:34:33]  Core plugin loaded                                            
+[23:34:33]   Loaded.
+[23:34:33]  Loading plugin: textdraw-streamer.so
+[23:34:33] 
+[23:34:33]  =================================
+[23:34:33]  |                               |
+[23:34:33]  |    textdraw-streamer v2.0.3   |
+[23:34:33]  |            Loaded             |
+[23:34:33]  |                               |
+[23:34:33]  |  Coding:                      |
+[23:34:33]  |                               |
+[23:34:33]  |  Burak (Nexor)                |
+[23:34:33]  |                               |
+[23:34:33]  |  Compiled:                    |
+[23:34:33]  |                               |
+[23:34:33]  |  01.12.2023, 07:11:19         |
+[23:34:33]  |                               |
+[23:34:33]  |  Github:                      |
+[23:34:33]  |                               |
+[23:34:33]  |  github.com/nexquery          |
+[23:34:33]  |                               |
+[23:34:33]  |  Discord:                     |
+[23:34:33]  |                               |
+[23:34:33]  |  benburakya - Nexor#4730      |
+[23:34:33]  |                               |
+[23:34:33]  =================================
+[23:34:33] 
+[23:34:33]   Loaded.
+[23:34:33]  Loaded 12 plugins.
+
+[23:34:33] 
+[23:34:33] Ban list
+[23:34:33] --------
+[23:34:33]  Loaded: samp.ban
+[23:34:33] 
+[23:34:33] 
+[23:34:33] Filterscripts
+[23:34:33] ---------------
+[23:34:33]   Loading filterscript 'UltraHost.amx'...
+[23:34:33] [sv:dbg:main:AmxLoad] : net game pointer (value:0x56c66ad0) received
+[23:34:33] [sv:dbg:network:bind] : voice server running on port 41034
+[23:34:33]   Loaded 1 filterscripts.
+
+[23:34:33] [sv:dbg:main:AmxLoad] : failed to bind voice server
+[23:34:33]    Error: Function not registered: 'DCC_GetMessageContent'
+[23:34:33]    Error: Function not registered: 'DCC_GetMessageAuthor'
+[23:34:33]    Error: Function not registered: 'DCC_GetMessageChannel'
+[23:34:33]    Error: Function not registered: 'DCC_IsUserBot'
+[23:34:33]    Error: Function not registered: 'DCC_SendChannelMessage'
+[23:34:33]    Error: Function not registered: 'DCC_FindChannelById'
+[23:34:33]    Error: Function not registered: 'DCC_CreateEmbed'
+[23:34:33]    Error: Function not registered: 'DCC_SetEmbedColor'
+[23:34:33]    Error: Function not registered: 'DCC_SetEmbedFooter'
+[23:34:33]    Error: Function not registered: 'DCC_SendChannelEmbedMessage'
+[23:34:33]    Error: Function not registered: 'DCC_SetBotActivity'
+[23:34:33] OnScriptInit 1
+[23:34:33]  
+[23:34:33]  
+[23:34:33]  
+[23:34:33]  ======================================= 
+[23:34:33]  |                                     | 
+[23:34:33]  |        YSI version 1.06.0002        | 
+[23:34:33]  |        By Alex "Y_Less" Cole        | 
+[23:34:33]  |                                     | 
+[23:34:33]  ======================================= 
+[23:34:33]  
+[23:34:33] OnScriptInit 2
+[23:34:33] OnScriptInit 3
+[23:34:33] Iter_OnGameModeInit start: 180
+[23:34:33] [debug] Long callback execution detected (hang or performance issue)
+[23:34:33] [debug] AMX backtrace:
+[23:34:33] [debug] #0 002a8fc8 in ?? (30) in africa.amx
+[23:34:33] [debug] #1 0031b060 in public OPVD_OnGameModeInit () in africa.amx
+[23:34:33] [debug] #2 native CallLocalFunction () in sampsvr-port_720
+[23:34:33] [debug] #3 00250338 in public SM_OnGameModeInit () in africa.amx
+[23:34:33] [debug] #4 00030678 in public WC_OnGameModeInit () in africa.amx
+[23:34:33] [debug] #5 00017564 in public CB_OnGameModeInit () in africa.amx
+[23:34:33] [debug] #6 0000e408 in public ppb_OnGameModeInit () in africa.amx
+[23:34:33] [debug] #7 00008d3c in public PawnCmd_OnGameModeInit () in africa.amx
+[23:34:33] [debug] #8 00008ce8 in public SSCANF_OnGameModeInit () in africa.amx
+[23:34:33] [debug] #9 000030e8 in public Itter_OnGameModeInit () in africa.amx
+[23:34:33] [debug] #10 native CallLocalFunction () in sampsvr-port_720
+[23:34:33] [debug] #11 00001ffc in public ScriptInit_OnGameModeInit () in africa.amx
+[23:34:33] [debug] #12 00000cb8 in public OnGameModeInit () in africa.amx
+[23:34:33] Trashcan 0 filled with 42 resources
+[23:34:33] Trashcan 1 filled with 100 resources
+[23:34:33] Trashcan 2 filled with 27 resources
+[23:34:33] Trashcan 3 filled with 57 resources
+[23:34:33] Trashcan 4 filled with 89 resources
+[23:34:33] Trashcan 5 filled with 41 resources
+[23:34:33] Trashcan 6 filled with 15 resources
+[23:34:33] Trashcan 7 filled with 29 resources
+[23:34:33] Trashcan 8 filled with 33 resources
+[23:34:33] Trashcan 9 filled with 55 resources
+[23:34:33] Trashcan 10 filled with 4 resources
+[23:34:33] Trashcan 11 filled with 22 resources
+[23:34:33] Trashcan 12 filled with 91 resources
+[23:34:33] Trashcan 13 filled with 2 resources
+[23:34:33] Trashcan 14 filled with 66 resources
+[23:34:33] Trashcan 15 filled with 52 resources
+[23:34:33] Trashcan 16 filled with 37 resources
+[23:34:33] Trashcan 17 filled with 23 resources
+[23:34:33] Trashcan 18 filled with 43 resources
+[23:34:33] Trashcan 19 filled with 46 resources
+[23:34:33] Trashcan 20 filled with 73 resources
+[23:34:33] Trashcan 21 filled with 47 resources
+[23:34:33] Trashcan 22 filled with 11 resources
+[23:34:33] Trashcan 23 filled with 27 resources
+[23:34:33] Trashcan 24 filled with 48 resources
+[23:34:33] Trashcan 25 filled with 82 resources
+[23:34:33] Trashcan 26 filled with 87 resources
+[23:34:33] Trashcan 27 filled with 26 resources
+[23:34:33] Trashcan 28 filled with 20 resources
+[23:34:33] Trashcan 29 filled with 13 resources
+[23:34:33] Trashcan 30 filled with 40 resources
+[23:34:33] Trashcan 31 filled with 81 resources
+[23:34:33] Trashcan 32 filled with 11 resources
+[23:34:33] Trashcan 33 filled with 43 resources
+[23:34:33] Trashcan 34 filled with 91 resources
+[23:34:33] Trashcan 35 filled with 47 resources
+[23:34:33] Trashcan 36 filled with 74 resources
+[23:34:33] Trashcan 37 filled with 27 resources
+[23:34:33] Trashcan 38 filled with 9 resources
+[23:34:33] Trashcan 39 filled with 48 resources
+[23:34:33] Trashcan 40 filled with 79 resources
+[23:34:33] Trashcan 41 filled with 54 resources
+[23:34:33] Trashcan 42 filled with 11 resources
+[23:34:33] Trashcan 43 filled with 25 resources
+[23:34:33] Trashcan 44 filled with 78 resources
+[23:34:33] Trashcan 45 filled with 22 resources
+[23:34:33] Trashcan 46 filled with 67 resources
+[23:34:33] Trashcan 47 filled with 64 resources
+[23:34:33] Trashcan 48 filled with 99 resources
+[23:34:33] Trashcan 49 filled with 89 resources
+[23:34:33] Africa City
+[23:34:33] 190 objects loaded.
+[23:34:33] Iter_OnGameModeInit: first
+[23:34:33] OnScriptInit 4
+[23:34:33] Number of vehicle models: 5
+[23:34:33] [Script] 4 atms loaded
+[23:34:33] [Script] 0 vendors loaded
+[23:34:33] [Script] 9 mdc loaded
+[23:34:33] [Script] 0 surgery room loaded
+[23:34:33] [Script] 17 Public Garage loaded
+[23:34:33] [Script] 0 Bars loaded
+[23:34:33] [Script] 2 houses loaded.
+[23:34:33] [Script] 2 garages loaded.
+[23:34:33] [Script] 11 businesses loaded.
+[23:34:33] [debug] Long callback execution detected (hang or performance issue)
+[23:34:33] [debug] AMX backtrace:
+[23:34:33] [debug] #0 0025ca08 in ?? (1156955587, -1005548192, 1103894151) in africa.amx
+[23:34:33] [debug] #1 002ba734 in ?? (24) in africa.amx
+[23:34:33] [debug] #2 00305810 in public OnQueryFinished (15, 0) in africa.amx
+[23:34:33] [Script] 31 entrances loaded.
+[23:34:33] [Script] 6 factions loaded.
+[23:34:33] [Script] 7 gangs loaded.
+[23:34:33] [Script] 0 points loaded.
+[23:34:33] [Script] 0 turfs loaded.
+[23:34:33] MySQL Report: Total Copper Mined and Sold. [100/100]
+[23:34:33] MySQL Report: Total Amethyst Mined and Sold. [100/100]
+[23:34:33] MySQL Report: Total Emerald Mined and Sold. [100/100]
+[23:34:33] MySQL Report: Total Ruby Mined and Sold. [100/100]
+[23:34:33] MySQL Report: Total Sapphire Mined and Sold. [100/100]
+[23:34:33] MySQL Report: Total Gold Mined and Sold. [100/100]
+[23:34:33] Creating object at 308.345001, -489.510986, 13.883700
+[23:34:33] Creating object at 291.493011, -539.557983, 36.552398
+[23:34:33] Creating object at -726.575012, -1814.349975, -39.041999
+[23:34:33] Creating object at -733.692993, -1813.939941, -39.041999
+[23:34:33] Creating object at -733.226013, -1808.709960, -39.041999
+[23:34:33] Creating object at -724.062988, -1820.520019, -39.041999
+[23:34:33] Creating object at -722.005004, -1816.449951, -39.041999
+[23:34:33] Creating object at -728.861022, -1818.500000, -38.080001
+[23:34:33] Creating object at -727.760986, -1809.819946, -39.041999
+[23:34:33] Creating object at -733.786010, -1811.760009, -39.041999
+[23:34:33] Creating object at -730.312988, -1814.150024, -39.041999
+[23:34:33] Creating object at -801.064025, -1793.349975, -89.019996
+[23:34:33] Creating object at -799.356018, -1797.630004, -89.019996
+[23:34:33] Creating object at -799.304016, -1800.400024, -89.019996
+[23:34:33] Creating object at -795.411010, -1798.459960, -89.019996
+[23:34:33] Creating object at -796.835021, -1794.569946, -89.019996
+[23:34:33] Creating object at -800.094970, -1795.310058, -88.841003
+[23:34:33] Creating object at -793.940002, -1796.739990, -89.019996
+[23:34:33] Creating object at -797.349975, -1798.089965, -89.019996
+[23:34:33] Creating object at -796.705017, -1791.760009, -89.019996
+[23:34:33] Creating object at -802.812011, -1794.250000, -89.019996
+[23:34:33] Creating object at -795.510986, -1796.260009, -88.902000
+[23:34:33] Creating object at -724.604003, -1816.520019, -39.041999
+[23:34:33] Creating object at -723.823974, -1815.479980, -39.041999
+[23:34:33] Creating object at -728.349975, -1816.449951, -39.041999
+[23:34:33] Creating object at -727.315002, -1818.839965, -38.150001
+[23:34:33] Creating object at -735.310974, -1814.150024, -39.041999
+[23:34:33] Creating object at -730.612976, -1809.339965, -39.041999
+[23:34:33] Creating object at -728.965026, -1811.660034, -39.041999
+[23:34:33] Creating object at -730.901977, -1813.410034, -39.041999
+[23:34:33] Creating object at -734.586975, -1815.099975, -39.041999
+[23:34:33] Creating object at -732.487976, -1807.390014, -39.041999
+[23:34:33] Creating object at -734.502014, -1810.030029, -39.041999
+[23:34:33] Creating object at -723.635986, -1815.660034, -38.859001
+[23:34:33] MySQL Report: Server Ores Loaded. [34/100]
+[23:34:33] MySQL Report: No Dropped Item exists to load in database.
+[23:34:33] MySQL Report: House Stash Loaded. [0/20]
+[23:34:33] MySQL Report: House Stash Loaded. [0/20]
+[23:34:54] [debug] Long callback execution detected (hang or performance issue)
+[23:34:54] [debug] AMX backtrace:
+[23:34:54] [debug] #0 00000c0c in public samp_init () in UltraHost.amx
+[23:34:58] [debug] Long callback execution detected (hang or performance issue)
+[23:34:58] [debug] AMX backtrace:
+[23:34:58] [debug] #0 002d894c in public SecondTimer () in africa.amx
+[23:35:01] [debug] Long callback execution detected (hang or performance issue)
+[23:35:01] [debug] AMX backtrace:
+[23:35:01] [debug] #0 00444664 in ?? (1159896516, -1009114127) in africa.amx
+[23:35:01] [debug] #1 004eaab0 in public deerspawn () in africa.amx
+[23:35:22] [connection] incoming connection: 105.235.136.246:63897 id: 0
+[23:35:23] [sv:dbg:network:connect] : connecting player (0) with address (105.235.136.246) ...
+[23:35:23] [sv:dbg:network:connect] : player (0) assigned key (f688eb69c457e739)
+[23:35:23] [join] Am1Ne_Goat has joined the server (0:105.235.136.246)
+[23:35:23] > {FFFFFF}{AAAAAA}Am1Ne_Goat has joined the server [{33AA33}IP:{FFFFFF} 105.235.136.246]
+[23:35:24] [sv:dbg:network:receive] : player (0) identified (port:63898)
+[23:35:32] {FFFFFF}Am1Ne Goat {5a9cd6}has logged in as a {FFFFFF}Community Owner{5a9cd6}.
+[23:35:33] MySQL Report: Am1Ne Goat Inventory Loaded. [17/20]
+[23:35:52] [cmd] [Am1Ne Goat]: gotodoor (success)
+[23:35:58] [cmd] [Am1Ne Goat]: gotodoor (success)
+[23:36:00] [cmd] [Am1Ne Goat]: gotodoor (success)
+[23:36:05] [cmd] [Am1Ne Goat]: gotodoor (success)
+[23:36:26] AdmCmd:{FFFFFF} Am1Ne Goat spawned a NRG-500.
+[23:36:26] [cmd] [Am1Ne Goat]: veh (success)
+[23:37:11] [cmd] [Am1Ne Goat]: travelback (success)
+[23:37:41] AdmCmd:{FFFFFF} Am1Ne Goat spawned a NRG-500.
+[23:37:41] [cmd] [Am1Ne Goat]: veh (success)
+[23:38:24] [chat] [Am1Ne_Goat]: .
+[23:38:55] Trash can ID: 0 now has 46 resources
+[23:38:55] Trash can ID: 2 now has 31 resources
+[23:38:55] Trash can ID: 3 now has 61 resources
+[23:38:55] Trash can ID: 4 now has 93 resources
+[23:38:55] Trash can ID: 5 now has 45 resources
+[23:38:55] Trash can ID: 6 now has 19 resources
+[23:38:55] Trash can ID: 7 now has 33 resources
+[23:38:55] Trash can ID: 8 now has 37 resources
+[23:38:55] Trash can ID: 9 now has 59 resources
+[23:38:55] Trash can ID: 10 now has 8 resources
+[23:38:55] Trash can ID: 11 now has 26 resources
+[23:38:55] Trash can ID: 12 now has 95 resources
+[23:38:55] Trash can ID: 13 now has 6 resources
+[23:38:55] Trash can ID: 14 now has 70 resources
+[23:38:55] Trash can ID: 15 now has 56 resources
+[23:38:55] Trash can ID: 16 now has 41 resources
+[23:38:55] Trash can ID: 17 now has 27 resources
+[23:38:55] Trash can ID: 18 now has 47 resources
+[23:38:55] Trash can ID: 19 now has 50 resources
+[23:38:55] Trash can ID: 20 now has 77 resources
+[23:38:55] Trash can ID: 21 now has 51 resources
+[23:38:55] Trash can ID: 22 now has 15 resources
+[23:38:55] Trash can ID: 23 now has 31 resources
+[23:38:55] Trash can ID: 24 now has 52 resources
+[23:38:55] Trash can ID: 25 now has 86 resources
+[23:38:55] Trash can ID: 26 now has 91 resources
+[23:38:55] Trash can ID: 27 now has 30 resources
+[23:38:55] Trash can ID: 28 now has 24 resources
+[23:38:55] Trash can ID: 29 now has 17 resources
+[23:38:55] Trash can ID: 30 now has 44 resources
+[23:38:55] Trash can ID: 31 now has 85 resources
+[23:38:55] Trash can ID: 32 now has 15 resources
+[23:38:55] Trash can ID: 33 now has 47 resources
+[23:38:55] Trash can ID: 34 now has 95 resources
+[23:38:55] Trash can ID: 35 now has 51 resources
+[23:38:55] Trash can ID: 36 now has 78 resources
+[23:38:55] Trash can ID: 37 now has 31 resources
+[23:38:55] Trash can ID: 38 now has 13 resources
+[23:38:55] Trash can ID: 39 now has 52 resources
+[23:38:55] Trash can ID: 40 now has 83 resources
+[23:38:55] Trash can ID: 41 now has 58 resources
+[23:38:55] Trash can ID: 42 now has 15 resources
+[23:38:55] Trash can ID: 43 now has 29 resources
+[23:38:55] Trash can ID: 44 now has 82 resources
+[23:38:55] Trash can ID: 45 now has 26 resources
+[23:38:55] Trash can ID: 46 now has 71 resources
+[23:38:55] Trash can ID: 47 now has 68 resources
+[23:38:55] Trash can ID: 49 now has 93 resources
+[23:39:57] [connection] incoming connection: 154.255.89.226:49455 id: 1
+[23:39:58] [sv:dbg:network:connect] : connecting player (1) with address (154.255.89.226) ...
+[23:39:58] [sv:dbg:network:connect] : player (1) assigned key (e259ff9a993565f4)
+[23:39:58] [join] CHkipo_io has joined the server (1:154.255.89.226)
+[23:39:58] > {FFFFFF}{AAAAAA}CHkipo_io has joined the server [{33AA33}IP:{FFFFFF} 154.255.89.226]
+[23:39:58] [sv:dbg:network:receive] : player (1) identified (port:49460)
+[23:40:07] MySQL Report: CHkipo io Inventory Loaded. [1/20]
+[23:40:13] [cmd] [Am1Ne Goat]: goto (success)
+[23:42:09] [debug] Long callback execution detected (hang or performance issue)
+[23:42:09] [debug] AMX backtrace:
+[23:42:09] [debug] #0 0001cf24 in public CB_OnPlayerStateChange (1, 1, 3) in africa.amx
+[23:42:09] [debug] #1 00011410 in public OnPlayerStateChange (1, 1, 3) in africa.amx
+[23:42:14] [cmd] [CHkipo io]: qui (success)
+[23:42:19] [sv:dbg:network:connect] : disconnecting player (1) ...
+[23:42:19] [debug] Long callback execution detected (hang or performance issue)
+[23:42:19] [debug] AMX backtrace:
+[23:42:19] [debug] #0 002b7b04 in ?? (1, 1) in africa.amx
+[23:42:19] [debug] #1 0041a904 in public SM_OnPlayerDisconnect (1, 1) in africa.amx
+[23:42:19] [debug] #2 00030890 in public WC_OnPlayerDisconnect (1, 1) in africa.amx
+[23:42:19] [debug] #3 00018190 in public CB_OnPlayerDisconnect (1, 1) in africa.amx
+[23:42:19] [debug] #4 0000e368 in public ppb_OnPlayerDisconnect (1, 1) in africa.amx
+[23:42:19] [debug] #5 00008dd0 in public SSCANF_OnPlayerDisconnect (1, 1) in africa.amx
+[23:42:19] [debug] #6 000031fc in public Itter_OnPlayerDisconnect (1, 1) in africa.amx
+[23:42:19] [debug] #7 00002434 in public OnPlayerDisconnect (1, 1) in africa.amx
+[23:42:19] [part] CHkipo_io has left the server (1:1)
+[23:42:56] [connection] incoming connection: 154.255.89.226:49581 id: 1
+[23:42:57] [sv:dbg:network:connect] : connecting player (1) with address (154.255.89.226) ...
+[23:42:57] [sv:dbg:network:connect] : player (1) assigned key (e259ff9a9ce2e41f)
+[23:42:57] [join] CHkipo_20 has joined the server (1:154.255.89.226)
+[23:42:57] [debug] Long callback execution detected (hang or performance issue)
+[23:42:57] [debug] AMX backtrace:
+[23:42:57] [debug] #0 003ff830 in public WC_OnPlayerConnect (1) in africa.amx
+[23:42:57] [debug] #1 0001815c in public MP_OPC (1) in africa.amx
+[23:42:57] [debug] #2 native CallLocalFunction () in sampsvr-port_720
+[23:42:57] [debug] #3 0000bbd0 in public SSCANF_OnPlayerConnect (1) in africa.amx
+[23:42:57] [debug] #4 000031bc in public Itter_OnPlayerConnect (1) in africa.amx
+[23:42:57] [debug] #5 00001b78 in public ADH_OnPlayerConnect (1) in africa.amx
+[23:42:57] [debug] #6 native CallRemoteFunction () in sampsvr-port_720
+[23:42:57] [debug] #7 000009d0 in public OnPlayerConnect (1) in africa.amx
+[23:42:57] > {FFFFFF}{AAAAAA}CHkipo_20 has joined the server [{33AA33}IP:{FFFFFF} 154.255.89.226]
+[23:42:57] [sv:dbg:network:receive] : player (1) identified (port:49584)
+[23:43:10] -mSelection- WARNING: Too many items given to "ShowModelSelectionMenuEx", increase "mS_CUSTOM_MAX_ITEMS" to fix this
+[23:43:12] -mSelection- WARNING: Too many items given to "ShowModelSelectionMenuEx", increase "mS_CUSTOM_MAX_ITEMS" to fix this
+[23:43:18] Trash can ID: 0 now has 53 resources
+[23:43:18] Trash can ID: 2 now has 38 resources
+[23:43:18] Trash can ID: 3 now has 68 resources
+[23:43:18] Trash can ID: 4 now has 100 resources
+[23:43:18] Trash can ID: 5 now has 52 resources
+[23:43:18] Trash can ID: 6 now has 26 resources
+[23:43:18] Trash can ID: 7 now has 40 resources
+[23:43:18] Trash can ID: 8 now has 44 resources
+[23:43:18] Trash can ID: 9 now has 66 resources
+[23:43:18] Trash can ID: 10 now has 15 resources
+[23:43:18] Trash can ID: 11 now has 33 resources
+[23:43:18] Trash can ID: 12 now has 102 resources
+[23:43:18] Trash can ID: 13 now has 13 resources
+[23:43:18] Trash can ID: 14 now has 77 resources
+[23:43:18] Trash can ID: 15 now has 63 resources
+[23:43:18] Trash can ID: 16 now has 48 resources
+[23:43:18] Trash can ID: 17 now has 34 resources
+[23:43:18] Trash can ID: 18 now has 54 resources
+[23:43:18] Trash can ID: 19 now has 57 resources
+[23:43:18] Trash can ID: 20 now has 84 resources
+[23:43:18] Trash can ID: 21 now has 58 resources
+[23:43:18] Trash can ID: 22 now has 22 resources
+[23:43:18] Trash can ID: 23 now has 38 resources
+[23:43:18] Trash can ID: 24 now has 59 resources
+[23:43:18] Trash can ID: 25 now has 93 resources
+[23:43:18] Trash can ID: 26 now has 98 resources
+[23:43:18] Trash can ID: 27 now has 37 resources
+[23:43:18] Trash can ID: 28 now has 31 resources
+[23:43:18] Trash can ID: 29 now has 24 resources
+[23:43:18] Trash can ID: 30 now has 51 resources
+[23:43:18] Trash can ID: 31 now has 92 resources
+[23:43:18] Trash can ID: 32 now has 22 resources
+[23:43:18] Trash can ID: 33 now has 54 resources
+[23:43:18] Trash can ID: 34 now has 102 resources
+[23:43:18] Trash can ID: 35 now has 58 resources
+[23:43:18] Trash can ID: 36 now has 85 resources
+[23:43:18] Trash can ID: 37 now has 38 resources
+[23:43:18] Trash can ID: 38 now has 20 resources
+[23:43:18] Trash can ID: 39 now has 59 resources
+[23:43:18] Trash can ID: 40 now has 90 resources
+[23:43:18] Trash can ID: 41 now has 65 resources
+[23:43:18] Trash can ID: 42 now has 22 resources
+[23:43:18] Trash can ID: 43 now has 36 resources
+[23:43:18] Trash can ID: 44 now has 89 resources
+[23:43:18] Trash can ID: 45 now has 33 resources
+[23:43:18] Trash can ID: 46 now has 78 resources
+[23:43:18] Trash can ID: 47 now has 75 resources
+[23:43:18] Trash can ID: 49 now has 100 resources
+[23:43:26] [sv:dbg:network:connect] : disconnecting player (1) ...
+[23:43:26] [part] CHkipo_20 has left the server (1:0)
+[23:43:33] [connection] incoming connection: 154.255.89.226:49614 id: 1
+[23:43:34] [sv:dbg:network:connect] : connecting player (1) with address (154.255.89.226) ...
+[23:43:34] [sv:dbg:network:connect] : player (1) assigned key (e259ff9a1bd0b92b)
+[23:43:34] [join] CHkipo_20 has joined the server (1:154.255.89.226)
+[23:43:34] [debug] Long callback execution detected (hang or performance issue)
+[23:43:34] [debug] AMX backtrace:
+[23:43:34] [debug] #0 003feb10 in public WC_OnPlayerConnect (1) in africa.amx
+[23:43:34] [debug] #1 0001815c in public MP_OPC (1) in africa.amx
+[23:43:34] [debug] #2 native CallLocalFunction () in sampsvr-port_720
+[23:43:34] [debug] #3 0000bbd0 in public SSCANF_OnPlayerConnect (1) in africa.amx
+[23:43:34] [debug] #4 000031bc in public Itter_OnPlayerConnect (1) in africa.amx
+[23:43:34] [debug] #5 00001b78 in public ADH_OnPlayerConnect (1) in africa.amx
+[23:43:34] [debug] #6 native CallRemoteFunction () in sampsvr-port_720
+[23:43:34] [debug] #7 000009d0 in public OnPlayerConnect (1) in africa.amx
+[23:43:34] > {FFFFFF}{AAAAAA}CHkipo_20 has joined the server [{33AA33}IP:{FFFFFF} 154.255.89.226]
+[23:43:34] [sv:dbg:network:receive] : player (1) identified (port:49616)
+[23:43:48] TRAIN STATION: CHkipo 20 [1] Has Just Land For The First Time! Lets Welcome him/her in [/g]
+[23:44:05] [cmd] [CHkipo 20]: fixvw (success)
+[23:44:46] [sv:dbg:network:connect] : disconnecting player (1) ...
+[23:44:46] [part] CHkipo_20 has left the server (1:0)
+[23:44:51] [connection] incoming connection: 154.255.89.226:49687 id: 1
+[23:44:52] [sv:dbg:network:connect] : connecting player (1) with address (154.255.89.226) ...
+[23:44:52] [sv:dbg:network:connect] : player (1) assigned key (e259ff9ae394d367)
+[23:44:52] [join] CHkipo_20 has joined the server (1:154.255.89.226)
+[23:44:52] > {FFFFFF}{AAAAAA}CHkipo_20 has joined the server [{33AA33}IP:{FFFFFF} 154.255.89.226]
+[23:44:52] [sv:dbg:network:receive] : player (1) identified (port:49689)
+[23:45:01] MySQL Report: CHkipo 20 Inventory Loaded. [1/20]
+[23:45:43] [cmd] [Am1Ne Goat]: omakeadmin (success)
+[23:45:43] [debug] Long callback execution detected (hang or performance issue)
+[23:45:43] [debug] AMX backtrace:
+[23:45:43] [debug] #0 002cc1f0 in public SecondTimer () in africa.amx
+[23:45:56] [debug] Long callback execution detected (hang or performance issue)
+[23:45:56] [debug] AMX backtrace:
+[23:45:56] [debug] #0 002be97c in ?? (0) in africa.amx
+[23:45:56] [debug] #1 0025be18 in ?? (0) in africa.amx
+[23:45:56] [debug] #2 002cecac in public SecondTimer () in africa.amx
+[23:45:56] [chat] [CHkipo_20]: CHkipo.io
+[23:46:14] [cmd] [Am1Ne Goat]: omakeadmin (success)
+[23:46:14] AdmCmd:{FFFFFF} Am1Ne Goat has offline set CHkipo_io's admin level to 7.
+[23:46:25] [chat] [Am1Ne_Goat]:  CHkipo_io
+[23:46:47] [cmd] [Am1Ne Goat]: omakeadmin (success)
+[23:46:47] AdmCmd:{FFFFFF} Am1Ne Goat has offline set DEV_ALPHA's admin level to 7.
+[23:47:42] Trash can ID: 0 now has 55 resources
+[23:47:42] Trash can ID: 2 now has 40 resources
+[23:47:42] Trash can ID: 3 now has 70 resources
+[23:47:42] Trash can ID: 5 now has 54 resources
+[23:47:42] Trash can ID: 6 now has 28 resources
+[23:47:42] Trash can ID: 7 now has 42 resources
+[23:47:42] Trash can ID: 8 now has 46 resources
+[23:47:42] Trash can ID: 9 now has 68 resources
+[23:47:42] Trash can ID: 10 now has 17 resources
+[23:47:42] Trash can ID: 11 now has 35 resources
+[23:47:42] Trash can ID: 13 now has 15 resources
+[23:47:42] Trash can ID: 14 now has 79 resources
+[23:47:42] Trash can ID: 15 now has 65 resources
+[23:47:42] Trash can ID: 16 now has 50 resources
+[23:47:42] Trash can ID: 17 now has 36 resources
+[23:47:42] Trash can ID: 18 now has 56 resources
+[23:47:42] Trash can ID: 19 now has 59 resources
+[23:47:42] Trash can ID: 20 now has 86 resources
+[23:47:42] Trash can ID: 21 now has 60 resources
+[23:47:42] Trash can ID: 22 now has 24 resources
+[23:47:42] Trash can ID: 23 now has 40 resources
+[23:47:42] Trash can ID: 24 now has 61 resources
+[23:47:42] Trash can ID: 25 now has 95 resources
+[23:47:42] Trash can ID: 27 now has 39 resources
+[23:47:42] Trash can ID: 28 now has 33 resources
+[23:47:42] Trash can ID: 29 now has 26 resources
+[23:47:42] Trash can ID: 30 now has 53 resources
+[23:47:42] Trash can ID: 31 now has 94 resources
+[23:47:42] Trash can ID: 32 now has 24 resources
+[23:47:42] Trash can ID: 33 now has 56 resources
+[23:47:42] Trash can ID: 35 now has 60 resources
+[23:47:42] Trash can ID: 36 now has 87 resources
+[23:47:42] Trash can ID: 37 now has 40 resources
+[23:47:42] Trash can ID: 38 now has 22 resources
+[23:47:42] Trash can ID: 39 now has 61 resources
+[23:47:42] Trash can ID: 40 now has 92 resources
+[23:47:42] Trash can ID: 41 now has 67 resources
+[23:47:42] Trash can ID: 42 now has 24 resources
+[23:47:42] Trash can ID: 43 now has 38 resources
+[23:47:42] Trash can ID: 44 now has 91 resources
+[23:47:42] Trash can ID: 45 now has 35 resources
+[23:47:42] Trash can ID: 46 now has 80 resources
+[23:47:42] Trash can ID: 47 now has 77 resources
+[23:48:52] {FF0000}AdmWarning: CHkipo 20{FFFFFF}[1] is possibly teleport hacking (distance: 291.3).
+[23:49:07] [cmd] [Am1Ne Goat]: goto (success)
+[23:49:43] {FF0000}AdmWarning: CHkipo 20{FFFFFF}[1] is possibly teleport hacking (distance: 135.1).
+[23:49:51] [cmd] [Am1Ne Goat]: goto (success)
+[23:50:06] [chat] [Am1Ne_Goat]: erkb
+[23:50:49] [warning] client exceeded 'ackslimit' 154.255.89.226:49687 (3541) Limit: 3000/sec
+[23:50:59] [sv:dbg:network:connect] : disconnecting player (1) ...
+[23:50:59] [part] CHkipo_20 has left the server (1:0)
+[23:51:04] [sv:dbg:network:connect] : disconnecting player (0) ...
+[23:51:04] [part] Am1Ne_Goat has left the server (0:1)
+[23:52:06] Trash can ID: 0 now has 57 resources
+[23:52:06] Trash can ID: 2 now has 42 resources
+[23:52:06] Trash can ID: 3 now has 72 resources
+[23:52:06] Trash can ID: 5 now has 56 resources
+[23:52:06] Trash can ID: 6 now has 30 resources
+[23:52:06] Trash can ID: 7 now has 44 resources
+[23:52:06] Trash can ID: 8 now has 48 resources
+[23:52:06] Trash can ID: 9 now has 70 resources
+[23:52:06] Trash can ID: 10 now has 19 resources
+[23:52:06] Trash can ID: 11 now has 37 resources
+[23:52:06] Trash can ID: 13 now has 17 resources
+[23:52:06] Trash can ID: 14 now has 81 resources
+[23:52:06] Trash can ID: 15 now has 67 resources
+[23:52:06] Trash can ID: 16 now has 52 resources
+[23:52:06] Trash can ID: 17 now has 38 resources
+[23:52:06] Trash can ID: 18 now has 58 resources
+[23:52:06] Trash can ID: 19 now has 61 resources
+[23:52:06] Trash can ID: 20 now has 88 resources
+[23:52:06] Trash can ID: 21 now has 62 resources
+[23:52:06] Trash can ID: 22 now has 26 resources
+[23:52:06] Trash can ID: 23 now has 42 resources
+[23:52:06] Trash can ID: 24 now has 63 resources
+[23:52:06] Trash can ID: 25 now has 97 resources
+[23:52:06] Trash can ID: 27 now has 41 resources
+[23:52:06] Trash can ID: 28 now has 35 resources
+[23:52:06] Trash can ID: 29 now has 28 resources
+[23:52:06] Trash can ID: 30 now has 55 resources
+[23:52:06] Trash can ID: 31 now has 96 resources
+[23:52:06] Trash can ID: 32 now has 26 resources
+[23:52:06] Trash can ID: 33 now has 58 resources
+[23:52:06] Trash can ID: 35 now has 62 resources
+[23:52:06] Trash can ID: 36 now has 89 resources
+[23:52:06] Trash can ID: 37 now has 42 resources
+[23:52:06] Trash can ID: 38 now has 24 resources
+[23:52:06] Trash can ID: 39 now has 63 resources
+[23:52:06] Trash can ID: 40 now has 94 resources
+[23:52:06] Trash can ID: 41 now has 69 resources
+[23:52:06] Trash can ID: 42 now has 26 resources
+[23:52:06] Trash can ID: 43 now has 40 resources
+[23:52:06] Trash can ID: 44 now has 93 resources
+[23:52:06] Trash can ID: 45 now has 37 resources
+[23:52:06] Trash can ID: 46 now has 82 resources
+[23:52:06] Trash can ID: 47 now has 79 resources
+[23:52:30] [debug] Long callback execution detected (hang or performance issue)
+[23:52:30] [debug] AMX backtrace:
+[23:52:30] [debug] #0 00255e80 in public FlasherFunc () in africa.amx
+[23:56:30] Trash can ID: 0 now has 62 resources
+[23:56:30] Trash can ID: 2 now has 47 resources
+[23:56:30] Trash can ID: 3 now has 77 resources
+[23:56:30] Trash can ID: 5 now has 61 resources
+[23:56:30] Trash can ID: 6 now has 35 resources
+[23:56:30] Trash can ID: 7 now has 49 resources
+[23:56:30] Trash can ID: 8 now has 53 resources
+[23:56:30] Trash can ID: 9 now has 75 resources
+[23:56:30] Trash can ID: 10 now has 24 resources
+[23:56:30] Trash can ID: 11 now has 42 resources
+[23:56:30] Trash can ID: 13 now has 22 resources
+[23:56:30] Trash can ID: 14 now has 86 resources
+[23:56:30] Trash can ID: 15 now has 72 resources
+[23:56:30] Trash can ID: 16 now has 57 resources
+[23:56:30] Trash can ID: 17 now has 43 resources
+[23:56:30] Trash can ID: 18 now has 63 resources
+[23:56:30] Trash can ID: 19 now has 66 resources
+[23:56:30] Trash can ID: 20 now has 93 resources
+[23:56:30] Trash can ID: 21 now has 67 resources
+[23:56:30] Trash can ID: 22 now has 31 resources
+[23:56:30] Trash can ID: 23 now has 47 resources
+[23:56:30] Trash can ID: 24 now has 68 resources
+[23:56:30] Trash can ID: 27 now has 46 resources
+[23:56:30] Trash can ID: 28 now has 40 resources
+[23:56:30] Trash can ID: 29 now has 33 resources
+[23:56:30] Trash can ID: 30 now has 60 resources
+[23:56:30] Trash can ID: 32 now has 31 resources
+[23:56:30] Trash can ID: 33 now has 63 resources
+[23:56:30] Trash can ID: 35 now has 67 resources
+[23:56:30] Trash can ID: 36 now has 94 resources
+[23:56:30] Trash can ID: 37 now has 47 resources
+[23:56:30] Trash can ID: 38 now has 29 resources
+[23:56:30] Trash can ID: 39 now has 68 resources
+[23:56:30] Trash can ID: 40 now has 99 resources
+[23:56:30] Trash can ID: 41 now has 74 resources
+[23:56:30] Trash can ID: 42 now has 31 resources
+[23:56:30] Trash can ID: 43 now has 45 resources
+[23:56:30] Trash can ID: 44 now has 98 resources
+[23:56:30] Trash can ID: 45 now has 42 resources
+[23:56:30] Trash can ID: 46 now has 87 resources
+[23:56:30] Trash can ID: 47 now has 84 resources

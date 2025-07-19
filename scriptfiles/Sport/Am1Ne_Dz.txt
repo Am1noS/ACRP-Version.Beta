@@ -1,0 +1,3 @@
+Massa=2
+Kadon=0
+Katime=0

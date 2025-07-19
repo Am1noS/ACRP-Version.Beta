@@ -1,0 +1,84 @@
+[2025-07-18 23:12]
+Error ID: 1064
+Callback: NoCallback
+Query: UPDATE users SET holdweapon = %i WHERE uid = %i
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '%i WHERE uid = %i' at line 1
+
+[2025-07-18 23:12]
+Error ID: 1064
+Callback: NoCallback
+Query: UPDATE users SET playerammo = %i WHERE uid = %i
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '%i WHERE uid = %i' at line 1
+
+[2025-07-18 23:13]
+Error ID: 1064
+Callback: NoCallback
+Query: UPDATE users SET holdweapon = %i WHERE uid = %i
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '%i WHERE uid = %i' at line 1
+
+[2025-07-18 23:13]
+Error ID: 1064
+Callback: NoCallback
+Query: UPDATE users SET playerammo = %i WHERE uid = %i
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '%i WHERE uid = %i' at line 1
+
+[2025-07-18 23:22]
+Error ID: 1064
+Callback: NoCallback
+Query: UPDATE users SET holdweapon = %i WHERE uid = %i
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '%i WHERE uid = %i' at line 1
+
+[2025-07-18 23:22]
+Error ID: 1064
+Callback: NoCallback
+Query: UPDATE users SET playerammo = %i WHERE uid = %i
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '%i WHERE uid = %i' at line 1
+
+[2025-07-18 23:22]
+Error ID: 1064
+Callback: NoCallback
+Query: UPDATE users SET holdweapon = %i WHERE uid = %i
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '%i WHERE uid = %i' at line 1
+
+[2025-07-18 23:22]
+Error ID: 1064
+Callback: NoCallback
+Query: UPDATE users SET playerammo = %i WHERE uid = %i
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '%i WHERE uid = %i' at line 1
+
+[2025-07-18 23:22]
+Error ID: 1064
+Callback: NoCallback
+Query: UPDATE users SET holdweapon = %i WHERE uid = %i
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '%i WHERE uid = %i' at line 1
+
+[2025-07-18 23:22]
+Error ID: 1064
+Callback: NoCallback
+Query: UPDATE users SET playerammo = %i WHERE uid = %i
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '%i WHERE uid = %i' at line 1
+
+[2025-07-18 23:22]
+Error ID: 1064
+Callback: NoCallback
+Query: UPDATE users SET holdweapon = %i WHERE uid = %i
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '%i WHERE uid = %i' at line 1
+
+[2025-07-18 23:22]
+Error ID: 1064
+Callback: NoCallback
+Query: UPDATE users SET playerammo = %i WHERE uid = %i
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '%i WHERE uid = %i' at line 1
+
+[2025-07-18 23:23]
+Error ID: 1064
+Callback: NoCallback
+Query: UPDATE users SET holdweapon = %i WHERE uid = %i
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '%i WHERE uid = %i' at line 1
+
+[2025-07-18 23:23]
+Error ID: 1064
+Callback: NoCallback
+Query: UPDATE users SET playerammo = %i WHERE uid = %i
+[!] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '%i WHERE uid = %i' at line 1
+

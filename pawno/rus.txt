@@ -1,0 +1,268 @@
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(17514) : ïًهنَïًهونهيèه 208: ôَيêِèے ٌ ٍèïîâûى ًهçَëüٍàٍîى èٌïîëüçَهٌٍے ïهًهن îلْےâëهيèهى, èيèِèèًîâàيà ïهًهîلًàلîٍêà
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(83701) : ïًهنَïًهونهيèه 208: ôَيêِèے ٌ ٍèïîâûى ًهçَëüٍàٍîى èٌïîëüçَهٌٍے ïهًهن îلْےâëهيèهى, èيèِèèًîâàيà ïهًهîلًàلîٍêà
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(94564) : ïًهنَïًهونهيèه 208: ôَيêِèے ٌ ٍèïîâûى ًهçَëüٍàٍîى èٌïîëüçَهٌٍے ïهًهن îلْےâëهيèهى, èيèِèèًîâàيà ïهًهîلًàلîٍêà
+maps\mapsLS.pwn(7023) : ïًهنَïًهونهيèه 202: êîëè÷هٌٍâî àًمَىهيٍîâ يه ٌîâïàنàهٍ ٌ îلْےâëهيèهى
+maps\mapsLS.pwn(7023) : ïًهنَïًهونهيèه 202: êîëè÷هٌٍâî àًمَىهيٍîâ يه ٌîâïàنàهٍ ٌ îلْےâëهيèهى
+maps\mapsLS.pwn(7023) : ïًهنَïًهونهيèه 202: êîëè÷هٌٍâî àًمَىهيٍîâ يه ٌîâïàنàهٍ ٌ îلْےâëهيèهى
+maps\mapsLS.pwn(7023) : ïًهنَïًهونهيèه 202: êîëè÷هٌٍâî àًمَىهيٍîâ يه ٌîâïàنàهٍ ٌ îلْےâëهيèهى
+maps\mapsLS.pwn(9777) : يهïًàâèëüيàے ٍàلَëےِèے
+maps\mapsLS.pwn(10016) : يهïًàâèëüيàے ٍàلَëےِèے
+maps\mapsLS.pwn(13353) : يهïًàâèëüيàے ٍàلَëےِèے
+maps\mapsLS.pwn(13354) : يهïًàâèëüيàے ٍàلَëےِèے
+maps\mapsLS.pwn(14591) : يهïًàâèëüيàے ٍàلَëےِèے
+maps\mapsLS.pwn(14594) : يهïًàâèëüيàے ٍàلَëےِèے
+maps\mapsLS.pwn(14595) : يهïًàâèëüيàے ٍàلَëےِèے
+maps\mapsLS.pwn(14748) : يهïًàâèëüيàے ٍàلَëےِèے
+maps\mapsLS.pwn(14749) : يهïًàâèëüيàے ٍàلَëےِèے
+maps\mapsLS.pwn(15061) : يهïًàâèëüيàے ٍàلَëےِèے
+maps\mapsLS.pwn(16133) : يهïًàâèëüيàے ٍàلَëےِèے
+maps\mapsLS.pwn(17770) : يهïًàâèëüيàے ٍàلَëےِèے
+maps\mapsLS.pwn(7025) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "tmpobjid1"
+maps\Idlewood.pwn(6) : يهïًàâèëüيàے ٍàلَëےِèے
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(884) : ïًهنَïًهونهيèه 201: ïîâٍîًيîه îلْےâëهيèه êîيٌٍàيٍû/ىàêًîٌà (èنهيٍèôèêàٍîً "PRESSED(%0)")
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(2973) : ïًهنَïًهونهيèه 201: ïîâٍîًيîه îلْےâëهيèه êîيٌٍàيٍû/ىàêًîٌà (èنهيٍèôèêàٍîً "DIALOG_ORE_OPTIONS")
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(2974) : ïًهنَïًهونهيèه 201: ïîâٍîًيîه îلْےâëهيèه êîيٌٍàيٍû/ىàêًîٌà (èنهيٍèôèêàٍîً "DIALOG_SELL_ORE_OPTIONS")
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(4805) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(8826) : ïًهنَïًهونهيèه 216: âëîوهييûé êîىىهيٍàًèé
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(10484) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(10484) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(10487) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(10490) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(11539) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(11581) : èنهيٍèôèêàٍîًَ ïًèٌâîهيî çيà÷هيèه, يî îي يه èٌïîëüçَهٌٍے: "rand"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(11729) : ïًهنَïًهونهيèه 216: âëîوهييûé êîىىهيٍàًèé
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(16598) : ïًهنَïًهونهيèه 219: ïهًهىهييàے "modelID" َوه îلْےâëهيà â لîëهه مëîلàëüيîé çîيه âèنèىîٌٍè
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(20000) : èنهيٍèôèêàٍîًَ ïًèٌâîهيî çيà÷هيèه, يî îي يه èٌïîëüçَهٌٍے: "pbar_str"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(20000) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "bar_speed"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(21741) : èنهيٍèôèêàٍîًَ ïًèٌâîهيî çيà÷هيèه, يî îي يه èٌïîëüçَهٌٍے: "String"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(22446) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(22449) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(22452) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(22455) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(22458) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(22461) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(25161) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "bizid"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(25575) : ïًهنَïًهونهيèه 219: ïهًهىهييàے "string" َوه îلْےâëهيà â لîëهه مëîلàëüيîé çîيه âèنèىîٌٍè
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(25575) : èنهيٍèôèêàٍîًَ ïًèٌâîهيî çيà÷هيèه, يî îي يه èٌïîëüçَهٌٍے: "string"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(25782) : ïًهنَïًهونهيèه 216: âëîوهييûé êîىىهيٍàًèé
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(25806) : ïًهنَïًهونهيèه 216: âëîوهييûé êîىىهيٍàًèé
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(25816) : ïًهنَïًهونهيèه 216: âëîوهييûé êîىىهيٍàًèé
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(25835) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(28907) : ïًهنَïًهونهيèه 219: ïهًهىهييàے "tmpobjid" َوه îلْےâëهيà â لîëهه مëîلàëüيîé çîيه âèنèىîٌٍè
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(34684) : ïًهنَïًهونهيèه 211: âîçىîويî يهïًهنيàىهًهييîه ïًèٌâàèâàيèه
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(34834) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(36280) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(40287) : èنهيٍèôèêàٍîًَ ïًèٌâîهيî çيà÷هيèه, يî îي يه èٌïîëüçَهٌٍے: "groupid"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(41039) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(41039) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(41050) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(41122) : ïًهنَïًهونهيèه 219: ïهًهىهييàے "string" َوه îلْےâëهيà â لîëهه مëîلàëüيîé çîيه âèنèىîٌٍè
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(41122) : èنهيٍèôèêàٍîًَ ïًèٌâîهيî çيà÷هيèه, يî îي يه èٌïîëüçَهٌٍے: "string"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(41487) : ïًهنَïًهونهيèه 216: âëîوهييûé êîىىهيٍàًèé
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(41548) : يهïًàâèëüيàے ٍàلَëےِèے
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(41676) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(41676) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(41676) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(41742) : ïًهنَïًهونهيèه 219: ïهًهىهييàے "mod" َوه îلْےâëهيà â لîëهه مëîلàëüيîé çîيه âèنèىîٌٍè
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(42365) : èنهيٍèôèêàٍîًَ ïًèٌâîهيî çيà÷هيèه, يî îي يه èٌïîëüçَهٌٍے: "animTime"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(42647) : يهïًàâèëüيàے ٍàلَëےِèے
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(42783) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "count"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(43209) : يهïًàâèëüيàے ٍàلَëےِèے
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(43288) : èنهيٍèôèêàٍîًَ ïًèٌâîهيî çيà÷هيèه, يî îي يه èٌïîëüçَهٌٍے: "string"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(43299) : ïًهنَïًهونهيèه 202: êîëè÷هٌٍâî àًمَىهيٍîâ يه ٌîâïàنàهٍ ٌ îلْےâëهيèهى
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(43444) : يهïًàâèëüيàے ٍàلَëےِèے
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(43432) : èنهيٍèôèêàٍîًَ ïًèٌâîهيî çيà÷هيèه, يî îي يه èٌïîëüçَهٌٍے: "string"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(43484) : يهïًàâèëüيàے ٍàلَëےِèے
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(43486) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(43491) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(43494) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(43497) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(43503) : يهïًàâèëüيàے ٍàلَëےِèے
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(43509) : يهïًàâèëüيàے ٍàلَëےِèے
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(45085) : èنهيٍèôèêàٍîًَ ïًèٌâîهيî çيà÷هيèه, يî îي يه èٌïîëüçَهٌٍے: "string"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(45171) : ïًهنَïًهونهيèه 219: ïهًهىهييàے "carID" َوه îلْےâëهيà â لîëهه مëîلàëüيîé çîيه âèنèىîٌٍè
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(45181) : ïًهنَïًهونهيèه 219: ïهًهىهييàے "carID" َوه îلْےâëهيà â لîëهه مëîلàëüيîé çîيه âèنèىîٌٍè
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(45243) : ïًهنَïًهونهيèه 219: ïهًهىهييàے "playerName" َوه îلْےâëهيà â لîëهه مëîلàëüيîé çîيه âèنèىîٌٍè
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(45252) : ïًهنَïًهونهيèه 219: ïهًهىهييàے "playerName" َوه îلْےâëهيà â لîëهه مëîلàëüيîé çîيه âèنèىîٌٍè
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(45365) : ïًهنَïًهونهيèه 219: ïهًهىهييàے "carID" َوه îلْےâëهيà â لîëهه مëîلàëüيîé çîيه âèنèىîٌٍè
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(45918) : يهïًàâèëüيàے ٍàلَëےِèے
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(50080) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(50084) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(50944) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(50949) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(50967) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(50971) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(51073) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(51077) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(51081) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(51102) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(51106) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(51110) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(51114) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(51326) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(51814) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(51848) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(51851) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(55181) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(55186) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(55273) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(55322) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(55327) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(55381) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(55386) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(55825) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(55839) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(55881) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(57607) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(57612) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(58587) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(58592) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(58842) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(58847) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(58852) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(58857) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(60263) : يهïًàâèëüيàے ٍàلَëےِèے
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(60923) : èنهيٍèôèêàٍîًَ ïًèٌâîهيî çيà÷هيèه, يî îي يه èٌïîëüçَهٌٍے: "secs"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(64874) : ïًهنَïًهونهيèه 202: êîëè÷هٌٍâî àًمَىهيٍîâ يه ٌîâïàنàهٍ ٌ îلْےâëهيèهى
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(71459) : يهïًàâèëüيàے ٍàلَëےِèے
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(71481) : ïًهنَïًهونهيèه 219: ïهًهىهييàے "string" َوه îلْےâëهيà â لîëهه مëîلàëüيîé çîيه âèنèىîٌٍè
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(71551) : يهïًàâèëüيàے ٍàلَëےِèے
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(72520) : يهïًàâèëüيàے ٍàلَëےِèے
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(72521) : يهïًàâèëüيàے ٍàلَëےِèے
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(73163) : يهïًàâèëüيàے ٍàلَëےِèے
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(73527) : يهïًàâèëüيàے ٍàلَëےِèے
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(73529) : يهïًàâèëüيàے ٍàلَëےِèے
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(74028) : ïًهنَïًهونهيèه 202: êîëè÷هٌٍâî àًمَىهيٍîâ يه ٌîâïàنàهٍ ٌ îلْےâëهيèهى
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(74137) : يهïًàâèëüيàے ٍàلَëےِèے
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(74138) : يهïًàâèëüيàے ٍàلَëےِèے
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(74917) : يهïًàâèëüيàے ٍàلَëےِèے
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(74958) : يهïًàâèëüيàے ٍàلَëےِèے
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(75039) : يهïًàâèëüيàے ٍàلَëےِèے
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(75080) : يهïًàâèëüيàے ٍàلَëےِèے
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(75101) : يهïًàâèëüيàے ٍàلَëےِèے
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(75121) : يهïًàâèëüيàے ٍàلَëےِèے
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(75142) : يهïًàâèëüيàے ٍàلَëےِèے
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(76567) : يهïًàâèëüيàے ٍàلَëےِèے
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(76568) : يهïًàâèëüيàے ٍàلَëےِèے
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(77019) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "targetid"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(77019) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "modelid"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(77019) : èنهيٍèôèêàٍîًَ ïًèٌâîهيî çيà÷هيèه, يî îي يه èٌïîëüçَهٌٍے: "model"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(77127) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(77127) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(77134) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(77134) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(77146) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(77146) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(78938) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(78938) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(78960) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(78962) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(80168) : يهïًàâèëüيàے ٍàلَëےِèے
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(80171) : يهïًàâèëüيàے ٍàلَëےِèے
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(81957) : يهïًàâèëüيàے ٍàلَëےِèے
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(83697) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(84925) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(84925) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(84927) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(84936) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(84936) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(84938) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(85056) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(87813) : ïًهنَïًهونهيèه 216: âëîوهييûé êîىىهيٍàًèé
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(88366) : ïًهنَïًهونهيèه 216: âëîوهييûé êîىىهيٍàًèé
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(89807) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(95414) : èنهيٍèôèêàٍîًَ ïًèٌâîهيî çيà÷هيèه, يî îي يه èٌïîëüçَهٌٍے: "reason"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(95414) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "targetid"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(97966) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(98097) : ïًهنَïًهونهيèه 219: ïهًهىهييàے "targetid" َوه îلْےâëهيà â لîëهه مëîلàëüيîé çîيه âèنèىîٌٍè
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(98100) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(98097) : èنهيٍèôèêàٍîًَ ïًèٌâîهيî çيà÷هيèه, يî îي يه èٌïîëüçَهٌٍے: "targetid"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(98097) -- (98107) : ïًهنَïًهونهيèه 219: ïهًهىهييàے "targetid" َوه îلْےâëهيà â لîëهه مëîلàëüيîé çîيه âèنèىîٌٍè
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(98110) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(98107) : èنهيٍèôèêàٍîًَ ïًèٌâîهيî çيà÷هيèه, يî îي يه èٌïîëüçَهٌٍے: "targetid"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(98174) : ïًهنَïًهونهيèه 202: êîëè÷هٌٍâî àًمَىهيٍîâ يه ٌîâïàنàهٍ ٌ îلْےâëهيèهى
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(98175) : ïًهنَïًهونهيèه 202: êîëè÷هٌٍâî àًمَىهيٍîâ يه ٌîâïàنàهٍ ٌ îلْےâëهيèهى
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(98179) : ïًهنَïًهونهيèه 202: êîëè÷هٌٍâî àًمَىهيٍîâ يه ٌîâïàنàهٍ ٌ îلْےâëهيèهى
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(98251) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(98984) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(98985) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(100431) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(100859) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "itemid"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(100859) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "car"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(104913) : èنهيٍèôèêàٍîًَ ïًèٌâîهيî çيà÷هيèه, يî îي يه èٌïîëüçَهٌٍے: "String"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(8431) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "AddToPaycheck"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(3333) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "Amonian"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(843) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "AsterInsuKeliling"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(3182) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "BLUECOLT45C"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(3188) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "BLUEMACHETEC"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(3330) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "BackingSode"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(3344) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "Bread"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(3193) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "CUFFC"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(81494) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "CameraRadiusSetPos"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(1109) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "DrugBuyerActor1"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(1110) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "DrugBuyerActor2"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(1111) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "DrugBuyerActor3"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(1112) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "DrugBuyerActor4"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(3332) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "EmptyPlasticCan"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(69622) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "GetFactoryResources"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(66672) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "GetGroupRank"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(69624) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "GetMaxFactoryResources"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(59440) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "GetNearbyFoodIndustry"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(59453) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "GetNearbyFoodIndustryDrink"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(59465) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "GetNearbyFoodIndustryFridge"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(65249) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "GetOreValue"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(69019) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "GetPlayerNick"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(69620) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "GetPlayerTrash"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(69626) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "GetPlayerWEEDTrashSkill"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(81504) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "GlobalPlaySound"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(3329) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "Glue"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(3342) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "INGREDIENT_122"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(69007) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "IsPlayerWListedIP"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(69013) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "IsPlayerWListedName"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(3180) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "KNIFEC"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(3352) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "Marijuanamm"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(3192) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "NAILSC"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(327) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "NPCBlackBus"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(326) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "NPCBlueBus"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(325) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "NPCTextBlack"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(324) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "NPCTextBlue"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(3336) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "Nibro"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(69647) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "PayByResources"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(331) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "PlayerSkin"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(331) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "Playera"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(331) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "Playerx"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(331) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "Playery"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(331) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "Playerz"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(840) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "SPEEDOTD"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(842) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "SPEEDO_FUEL"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(840) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "SPEEDO_LOCATION"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(840) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "SPEEDO_SPEED"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(3178) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "SPRINGC"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(81465) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "SetPlayerPosObjectOffset"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(45153) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "ShowBusinessProductPrice"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(65255) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "ShowSellOre"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(65447) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "SpikedBatPlace"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(12875) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "StartForkliftJob"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(666) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "SurgeryAmount"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(520) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "TackleON"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(3328) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "Trowel"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(69623) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "UpdateFactoryResources"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(69625) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "UpdatePlayerWEEDTrashSkill"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(69655) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "WEEDGetTrashPrice"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(3364) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "WEEDTotalTrashCollected"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(3365) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "WEEDVehicleTrash"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(239) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "_RenderBar"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(656) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "armedbody_pTick"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(3094) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "arrVehicleNames"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(45169) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "carID"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(26590) : èنهيٍèôèêàٍîًَ ïًèٌâîهيî çيà÷هيèه, يî îي يه èٌïîëüçَهٌٍے: "deery"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(45191) : èنهيٍèôèêàٍîًَ ïًèٌâîهيî çيà÷هيèه, يî îي يه èٌïîëüçَهٌٍے: "fuel"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(45192) : èنهيٍèôèêàٍîًَ ïًèٌâîهيî çيà÷هيèه, يî îي يه èٌïîëüçَهٌٍے: "modelID"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(45241) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "playerName"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(263) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "quotes"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(297) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "ret_memcpy"
+C:\Users\joker\Desktop\Test Ultra\gamemodes\africa.pwn(45120) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "scmf"
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2017, ITB CompuPhase
+
+
+دًهنَïًهونهيèé:124.
