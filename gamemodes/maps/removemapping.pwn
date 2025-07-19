@@ -16,8 +16,6 @@ RemoveBuildings(playerid)
 	RemoveBuildingForPlayer(playerid, 4848, 1931.0000, -1871.3906, 15.8438, 0.25);
 	RemoveBuildingForPlayer(playerid, 1226, 1931.8750, -1863.4609, 16.3203, 0.25);
 	RemoveBuildingForPlayer(playerid, 1226, 1915.7422, -1863.4609, 16.3203, 0.25);
-
-
 	
 	// spawn
 	RemoveBuildingForPlayer(playerid, 5033, 1745.199, -1882.849, 26.140, 0.250);
@@ -405,7 +403,7 @@ RemoveBuildings(playerid)
 */
 	
 	//==============================[SAMSUNG SHOP]==============================//
-	//RemoveBuildingForPlayer(playerid, 621, 950.1250, -1420.2656, 12.1016, 0.25);
+	RemoveBuildingForPlayer(playerid, 621, 950.1250, -1420.2656, 12.1016, 0.25);
 
 	
 

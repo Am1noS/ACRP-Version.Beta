@@ -1,260 +1,238 @@
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(17672) : ïًهنَïًهونهيèه 208: ôَيêِèے ٌ ٍèïîâûى ًهçَëüٍàٍîى èٌïîëüçَهٌٍے ïهًهن îلْےâëهيèهى, èيèِèèًîâàيà ïهًهîلًàلîٍêà
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(84344) : ïًهنَïًهونهيèه 208: ôَيêِèے ٌ ٍèïîâûى ًهçَëüٍàٍîى èٌïîëüçَهٌٍے ïهًهن îلْےâëهيèهى, èيèِèèًîâàيà ïهًهîلًàلîٍêà
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(95207) : ïًهنَïًهونهيèه 208: ôَيêِèے ٌ ٍèïîâûى ًهçَëüٍàٍîى èٌïîëüçَهٌٍے ïهًهن îلْےâëهيèهى, èيèِèèًîâàيà ïهًهîلًàلîٍêà
-C:\Users\joker\Desktop\drop gamemode\pawno\include\dutils.inc(461) : ïًهنَïًهونهيèه 219: ïهًهىهييàے "txt" َوه îلْےâëهيà â لîëهه مëîلàëüيîé çîيه âèنèىîٌٍè
-C:\Users\joker\Desktop\drop gamemode\pawno\include\dutils.inc(477) : ïًهنَïًهونهيèه 219: ïهًهىهييàے "txt" َوه îلْےâëهيà â لîëهه مëîلàëüيîé çîيه âèنèىîٌٍè
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(4854) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(8954) : ïًهنَïًهونهيèه 216: âëîوهييûé êîىىهيٍàًèé
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(10612) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(10612) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(10615) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(10618) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(11675) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(11717) : èنهيٍèôèêàٍîًَ ïًèٌâîهيî çيà÷هيèه, يî îي يه èٌïîëüçَهٌٍے: "rand"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(11865) : ïًهنَïًهونهيèه 216: âëîوهييûé êîىىهيٍàًèé
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(16755) : ïًهنَïًهونهيèه 219: ïهًهىهييàے "modelID" َوه îلْےâëهيà â لîëهه مëîلàëüيîé çîيه âèنèىîٌٍè
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(19798) : يهïًàâèëüيàے ٍàلَëےِèے
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(19825) : يهïًàâèëüيàے ٍàلَëےِèے
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(20190) : èنهيٍèôèêàٍîًَ ïًèٌâîهيî çيà÷هيèه, يî îي يه èٌïîëüçَهٌٍے: "pbar_str"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(20190) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "bar_speed"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(21931) : èنهيٍèôèêàٍîًَ ïًèٌâîهيî çيà÷هيèه, يî îي يه èٌïîëüçَهٌٍے: "String"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(22636) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(22639) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(22642) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(22645) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(22648) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(22651) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(25351) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "bizid"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(25765) : ïًهنَïًهونهيèه 219: ïهًهىهييàے "string" َوه îلْےâëهيà â لîëهه مëîلàëüيîé çîيه âèنèىîٌٍè
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(25765) : èنهيٍèôèêàٍîًَ ïًèٌâîهيî çيà÷هيèه, يî îي يه èٌïîëüçَهٌٍے: "string"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(25972) : ïًهنَïًهونهيèه 216: âëîوهييûé êîىىهيٍàًèé
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(25996) : ïًهنَïًهونهيèه 216: âëîوهييûé êîىىهيٍàًèé
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(26006) : ïًهنَïًهونهيèه 216: âëîوهييûé êîىىهيٍàًèé
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(26025) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(29397) : ïًهنَïًهونهيèه 219: ïهًهىهييàے "tmpobjid" َوه îلْےâëهيà â لîëهه مëîلàëüيîé çîيه âèنèىîٌٍè
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(35174) : ïًهنَïًهونهيèه 211: âîçىîويî يهïًهنيàىهًهييîه ïًèٌâàèâàيèه
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(35341) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(36853) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(40878) : èنهيٍèôèêàٍîًَ ïًèٌâîهيî çيà÷هيèه, يî îي يه èٌïîëüçَهٌٍے: "groupid"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(41630) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(41630) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(41641) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(41713) : ïًهنَïًهونهيèه 219: ïهًهىهييàے "string" َوه îلْےâëهيà â لîëهه مëîلàëüيîé çîيه âèنèىîٌٍè
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(41713) : èنهيٍèôèêàٍîًَ ïًèٌâîهيî çيà÷هيèه, يî îي يه èٌïîëüçَهٌٍے: "string"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(42113) : ïًهنَïًهونهيèه 216: âëîوهييûé êîىىهيٍàًèé
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(42210) : يهïًàâèëüيàے ٍàلَëےِèے
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(42338) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(42338) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(42338) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(42404) : ïًهنَïًهونهيèه 219: ïهًهىهييàے "mod" َوه îلْےâëهيà â لîëهه مëîلàëüيîé çîيه âèنèىîٌٍè
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(43027) : èنهيٍèôèêàٍîًَ ïًèٌâîهيî çيà÷هيèه, يî îي يه èٌïîëüçَهٌٍے: "animTime"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(43309) : يهïًàâèëüيàے ٍàلَëےِèے
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(43445) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "count"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(43871) : يهïًàâèëüيàے ٍàلَëےِèے
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(43950) : èنهيٍèôèêàٍîًَ ïًèٌâîهيî çيà÷هيèه, يî îي يه èٌïîëüçَهٌٍے: "string"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(43961) : ïًهنَïًهونهيèه 202: êîëè÷هٌٍâî àًمَىهيٍîâ يه ٌîâïàنàهٍ ٌ îلْےâëهيèهى
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(44106) : يهïًàâèëüيàے ٍàلَëےِèے
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(44094) : èنهيٍèôèêàٍîًَ ïًèٌâîهيî çيà÷هيèه, يî îي يه èٌïîëüçَهٌٍے: "string"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(44146) : يهïًàâèëüيàے ٍàلَëےِèے
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(44148) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(44153) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(44156) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(44159) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(44165) : يهïًàâèëüيàے ٍàلَëےِèے
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(44171) : يهïًàâèëüيàے ٍàلَëےِèے
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(45747) : èنهيٍèôèêàٍîًَ ïًèٌâîهيî çيà÷هيèه, يî îي يه èٌïîëüçَهٌٍے: "string"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(45833) : ïًهنَïًهونهيèه 219: ïهًهىهييàے "carID" َوه îلْےâëهيà â لîëهه مëîلàëüيîé çîيه âèنèىîٌٍè
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(45843) : ïًهنَïًهونهيèه 219: ïهًهىهييàے "carID" َوه îلْےâëهيà â لîëهه مëîلàëüيîé çîيه âèنèىîٌٍè
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(45905) : ïًهنَïًهونهيèه 219: ïهًهىهييàے "playerName" َوه îلْےâëهيà â لîëهه مëîلàëüيîé çîيه âèنèىîٌٍè
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(45914) : ïًهنَïًهونهيèه 219: ïهًهىهييàے "playerName" َوه îلْےâëهيà â لîëهه مëîلàëüيîé çîيه âèنèىîٌٍè
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(46027) : ïًهنَïًهونهيèه 219: ïهًهىهييàے "carID" َوه îلْےâëهيà â لîëهه مëîلàëüيîé çîيه âèنèىîٌٍè
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(46580) : يهïًàâèëüيàے ٍàلَëےِèے
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(50742) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(50746) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(51606) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(51611) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(51629) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(51633) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(51735) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(51739) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(51743) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(51764) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(51768) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(51772) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(51776) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(51988) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(52476) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(52510) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(52513) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(55843) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(55848) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(55935) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(55984) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(55989) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(56043) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(56048) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(56487) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(56501) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(56543) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(58269) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(58274) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(59249) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(59254) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(59504) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(59509) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(59514) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(59519) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(60925) : يهïًàâèëüيàے ٍàلَëےِèے
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(61585) : èنهيٍèôèêàٍîًَ ïًèٌâîهيî çيà÷هيèه, يî îي يه èٌïîëüçَهٌٍے: "secs"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(62167) : èنهيٍèôèêàٍîًَ ïًèٌâîهيî çيà÷هيèه, يî îي يه èٌïîëüçَهٌٍے: "Mph_speed"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(62188) : èنهيٍèôèêàٍîًَ ïًèٌâîهيî çيà÷هيèه, يî îي يه èٌïîëüçَهٌٍے: "bar_speed"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(62161) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "speed_color"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(65498) : ïًهنَïًهونهيèه 202: êîëè÷هٌٍâî àًمَىهيٍîâ يه ٌîâïàنàهٍ ٌ îلْےâëهيèهى
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(70270) : ïًهنَïًهونهيèه 219: ïهًهىهييàے "ID" َوه îلْےâëهيà â لîëهه مëîلàëüيîé çîيه âèنèىîٌٍè
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(72100) : يهïًàâèëüيàے ٍàلَëےِèے
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(72122) : ïًهنَïًهونهيèه 219: ïهًهىهييàے "string" َوه îلْےâëهيà â لîëهه مëîلàëüيîé çîيه âèنèىîٌٍè
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(72122) : èنهيٍèôèêàٍîًَ ïًèٌâîهيî çيà÷هيèه, يî îي يه èٌïîëüçَهٌٍے: "string"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(72192) : يهïًàâèëüيàے ٍàلَëےِèے
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(73161) : يهïًàâèëüيàے ٍàلَëےِèے
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(73162) : يهïًàâèëüيàے ٍàلَëےِèے
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(73804) : يهïًàâèëüيàے ٍàلَëےِèے
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(74168) : يهïًàâèëüيàے ٍàلَëےِèے
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(74170) : يهïًàâèëüيàے ٍàلَëےِèے
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(74669) : ïًهنَïًهونهيèه 202: êîëè÷هٌٍâî àًمَىهيٍîâ يه ٌîâïàنàهٍ ٌ îلْےâëهيèهى
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(74778) : يهïًàâèëüيàے ٍàلَëےِèے
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(74779) : يهïًàâèëüيàے ٍàلَëےِèے
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(75558) : يهïًàâèëüيàے ٍàلَëےِèے
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(75599) : يهïًàâèëüيàے ٍàلَëےِèے
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(75680) : يهïًàâèëüيàے ٍàلَëےِèے
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(75721) : يهïًàâèëüيàے ٍàلَëےِèے
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(75742) : يهïًàâèëüيàے ٍàلَëےِèے
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(75762) : يهïًàâèëüيàے ٍàلَëےِèے
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(75783) : يهïًàâèëüيàے ٍàلَëےِèے
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(77208) : يهïًàâèëüيàے ٍàلَëےِèے
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(77209) : يهïًàâèëüيàے ٍàلَëےِèے
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(77660) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "targetid"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(77660) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "modelid"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(77660) : èنهيٍèôèêàٍîًَ ïًèٌâîهيî çيà÷هيèه, يî îي يه èٌïîëüçَهٌٍے: "model"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(77768) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(77768) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(77775) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(77775) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(77787) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(77787) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(79579) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(79579) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(79601) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(79603) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(80809) : يهïًàâèëüيàے ٍàلَëےِèے
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(80812) : يهïًàâèëüيàے ٍàلَëےِèے
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(82598) : يهïًàâèëüيàے ٍàلَëےِèے
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(84340) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(85568) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(85568) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(85570) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(85579) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(85579) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(85581) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(85699) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(88456) : ïًهنَïًهونهيèه 216: âëîوهييûé êîىىهيٍàًèé
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(89009) : ïًهنَïًهونهيèه 216: âëîوهييûé êîىىهيٍàًèé
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(89111) : ïًهنَïًهونهيèه 219: ïهًهىهييàے "ID" َوه îلْےâëهيà â لîëهه مëîلàëüيîé çîيه âèنèىîٌٍè
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(90450) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(96057) : èنهيٍèôèêàٍîًَ ïًèٌâîهيî çيà÷هيèه, يî îي يه èٌïîëüçَهٌٍے: "reason"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(96057) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "targetid"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(98609) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(98740) : ïًهنَïًهونهيèه 219: ïهًهىهييàے "targetid" َوه îلْےâëهيà â لîëهه مëîلàëüيîé çîيه âèنèىîٌٍè
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(98743) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(98750) : ïًهنَïًهونهيèه 219: ïهًهىهييàے "targetid" َوه îلْےâëهيà â لîëهه مëîلàëüيîé çîيه âèنèىîٌٍè
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(98753) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(98817) : ïًهنَïًهونهيèه 202: êîëè÷هٌٍâî àًمَىهيٍîâ يه ٌîâïàنàهٍ ٌ îلْےâëهيèهى
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(98818) : ïًهنَïًهونهيèه 202: êîëè÷هٌٍâî àًمَىهيٍîâ يه ٌîâïàنàهٍ ٌ îلْےâëهيèهى
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(98822) : ïًهنَïًهونهيèه 202: êîëè÷هٌٍâî àًمَىهيٍîâ يه ٌîâïàنàهٍ ٌ îلْےâëهيèهى
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(98894) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(99627) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(99628) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(101074) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(101502) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "itemid"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(101502) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "car"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(105594) : èنهيٍèôèêàٍîًَ ïًèٌâîهيî çيà÷هيèه, يî îي يه èٌïîëüçَهٌٍے: "String"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(8559) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "AddToPaycheck"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(3382) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "Amonian"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(888) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "AsterInsuKeliling"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(3231) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "BLUECOLT45C"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(3237) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "BLUEMACHETEC"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(3379) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "BackingSode"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(3393) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "Bread"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(3242) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "CUFFC"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(82135) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "CameraRadiusSetPos"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(1173) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "ClothesActor"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(1154) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "DrugBuyerActor1"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(1155) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "DrugBuyerActor2"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(1156) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "DrugBuyerActor3"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(1157) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "DrugBuyerActor4"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(3381) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "EmptyPlasticCan"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(70263) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "GetFactoryResources"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(67313) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "GetGroupRank"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(70265) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "GetMaxFactoryResources"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(60102) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "GetNearbyFoodIndustry"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(60115) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "GetNearbyFoodIndustryDrink"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(60127) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "GetNearbyFoodIndustryFridge"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(65873) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "GetOreValue"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(69666) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "GetPlayerIpEx"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(69660) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "GetPlayerNick"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(70261) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "GetPlayerTrash"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(70267) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "GetPlayerWEEDTrashSkill"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(82145) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "GlobalPlaySound"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(3378) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "Glue"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(767) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "ID"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(3391) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "INGREDIENT_122"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(69648) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "IsPlayerWListedIP"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(69654) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "IsPlayerWListedName"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(3229) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "KNIFEC"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(3401) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "Marijuanamm"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(3241) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "NAILSC"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(354) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "NPCBlackBus"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(353) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "NPCBlueBus"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(352) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "NPCTextBlack"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(351) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "NPCTextBlue"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(3385) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "Nibro"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(70288) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "PayByResources"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(358) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "PlayerSkin"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(358) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "Playera"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(358) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "Playerx"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(358) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "Playery"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(358) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "Playerz"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(885) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "SPEEDOTD"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(887) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "SPEEDO_FUEL"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(885) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "SPEEDO_LOCATION"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(885) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "SPEEDO_SPEED"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(3227) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "SPRINGC"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(82106) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "SetPlayerPosObjectOffset"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(45815) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "ShowBusinessProductPrice"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(65879) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "ShowSellOre"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(66071) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "SpikedBatPlace"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(13024) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "StartForkliftJob"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(699) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "SurgeryAmount"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(547) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "TackleON"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(3377) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "Trowel"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(70264) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "UpdateFactoryResources"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(70266) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "UpdatePlayerWEEDTrashSkill"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(70296) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "WEEDGetTrashPrice"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(3413) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "WEEDTotalTrashCollected"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(3414) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "WEEDVehicleTrash"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(239) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "_RenderBar"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(689) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "armedbody_pTick"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(3143) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "arrVehicleNames"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(45831) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "carID"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(26780) : èنهيٍèôèêàٍîًَ ïًèٌâîهيî çيà÷هيèه, يî îي يه èٌïîëüçَهٌٍے: "deery"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(45853) : èنهيٍèôèêàٍîًَ ïًèٌâîهيî çيà÷هيèه, يî îي يه èٌïîëüçَهٌٍے: "fuel"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(1164) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "gymactor"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(45854) : èنهيٍèôèêàٍîًَ ïًèٌâîهيî çيà÷هيèه, يî îي يه èٌïîëüçَهٌٍے: "modelID"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(45903) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "playerName"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(290) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "quotes"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(297) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "ret_memcpy"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(45782) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "scmf"
-C:\Users\joker\Desktop\drop gamemode\gamemodes\africa.pwn(766) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "txt"
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(17391) : ïًهنَïًهونهيèه 208: ôَيêِèے ٌ ٍèïîâûى ًهçَëüٍàٍîى èٌïîëüçَهٌٍے ïهًهن îلْےâëهيèهى, èيèِèèًîâàيà ïهًهîلًàلîٍêà
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(82948) : ïًهنَïًهونهيèه 208: ôَيêِèے ٌ ٍèïîâûى ًهçَëüٍàٍîى èٌïîëüçَهٌٍے ïهًهن îلْےâëهيèهى, èيèِèèًîâàيà ïهًهîلًàلîٍêà
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(93646) : ïًهنَïًهونهيèه 208: ôَيêِèے ٌ ٍèïîâûى ًهçَëüٍàٍîى èٌïîëüçَهٌٍے ïهًهن îلْےâëهيèهى, èيèِèèًîâàيà ïهًهîلًàلîٍêà
+maps\mapsLS.pwn(7019) : ïًهنَïًهونهيèه 202: êîëè÷هٌٍâî àًمَىهيٍîâ يه ٌîâïàنàهٍ ٌ îلْےâëهيèهى
+maps\mapsLS.pwn(7019) : ïًهنَïًهونهيèه 202: êîëè÷هٌٍâî àًمَىهيٍîâ يه ٌîâïàنàهٍ ٌ îلْےâëهيèهى
+maps\mapsLS.pwn(7019) : ïًهنَïًهونهيèه 202: êîëè÷هٌٍâî àًمَىهيٍîâ يه ٌîâïàنàهٍ ٌ îلْےâëهيèهى
+maps\mapsLS.pwn(7019) : ïًهنَïًهونهيèه 202: êîëè÷هٌٍâî àًمَىهيٍîâ يه ٌîâïàنàهٍ ٌ îلْےâëهيèهى
+maps\mapsLS.pwn(7691) : يهïًàâèëüيàے ٍàلَëےِèے
+maps\mapsLS.pwn(7692) : يهïًàâèëüيàے ٍàلَëےِèے
+maps\mapsLS.pwn(9765) : يهïًàâèëüيàے ٍàلَëےِèے
+maps\mapsLS.pwn(10004) : يهïًàâèëüيàے ٍàلَëےِèے
+maps\mapsLS.pwn(10005) : يهïًàâèëüيàے ٍàلَëےِèے
+maps\mapsLS.pwn(15044) : يهïًàâèëüيàے ٍàلَëےِèے
+maps\mapsLS.pwn(16116) : يهïًàâèëüيàے ٍàلَëےِèے
+maps\mapsLS.pwn(7021) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "tmpobjid1"
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(882) : ïًهنَïًهونهيèه 201: ïîâٍîًيîه îلْےâëهيèه êîيٌٍàيٍû/ىàêًîٌà (èنهيٍèôèêàٍîً "PRESSED(%0)")
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(2949) : ïًهنَïًهونهيèه 201: ïîâٍîًيîه îلْےâëهيèه êîيٌٍàيٍû/ىàêًîٌà (èنهيٍèôèêàٍîً "DIALOG_ORE_OPTIONS")
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(2950) : ïًهنَïًهونهيèه 201: ïîâٍîًيîه îلْےâëهيèه êîيٌٍàيٍû/ىàêًîٌà (èنهيٍèôèêàٍîً "DIALOG_SELL_ORE_OPTIONS")
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(8788) : ïًهنَïًهونهيèه 216: âëîوهييûé êîىىهيٍàًèé
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(10402) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(10402) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(10408) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(11625) : ïًهنَïًهونهيèه 216: âëîوهييûé êîىىهيٍàًèé
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(16479) : ïًهنَïًهونهيèه 219: ïهًهىهييàے "modelID" َوه îلْےâëهيà â لîëهه مëîلàëüيîé çîيه âèنèىîٌٍè
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(19877) : èنهيٍèôèêàٍîًَ ïًèٌâîهيî çيà÷هيèه, يî îي يه èٌïîëüçَهٌٍے: "pbar_str"
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(19877) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "bar_speed"
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(21619) : èنهيٍèôèêàٍîًَ ïًèٌâîهيî çيà÷هيèه, يî îي يه èٌïîëüçَهٌٍے: "String"
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(22324) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(22327) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(22330) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(22333) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(22336) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(22339) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(25039) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "bizid"
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(25426) : ïًهنَïًهونهيèه 219: ïهًهىهييàے "string" َوه îلْےâëهيà â لîëهه مëîلàëüيîé çîيه âèنèىîٌٍè
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(25426) : èنهيٍèôèêàٍîًَ ïًèٌâîهيî çيà÷هيèه, يî îي يه èٌïîëüçَهٌٍے: "string"
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(25633) : ïًهنَïًهونهيèه 216: âëîوهييûé êîىىهيٍàًèé
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(25657) : ïًهنَïًهونهيèه 216: âëîوهييûé êîىىهيٍàًèé
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(25667) : ïًهنَïًهونهيèه 216: âëîوهييûé êîىىهيٍàًèé
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(25686) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(28640) : ïًهنَïًهونهيèه 202: êîëè÷هٌٍâî àًمَىهيٍîâ يه ٌîâïàنàهٍ ٌ îلْےâëهيèهى
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(28724) : ïًهنَïًهونهيèه 219: ïهًهىهييàے "tmpobjid" َوه îلْےâëهيà â لîëهه مëîلàëüيîé çîيه âèنèىîٌٍè
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(34500) : ïًهنَïًهونهيèه 211: âîçىîويî يهïًهنيàىهًهييîه ïًèٌâàèâàيèه
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(34648) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(35990) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(39803) : يهïًàâèëüيàے ٍàلَëےِèے
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(40689) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(40689) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(40700) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(40772) : ïًهنَïًهونهيèه 219: ïهًهىهييàے "string" َوه îلْےâëهيà â لîëهه مëîلàëüيîé çîيه âèنèىîٌٍè
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(40772) : èنهيٍèôèêàٍîًَ ïًèٌâîهيî çيà÷هيèه, يî îي يه èٌïîëüçَهٌٍے: "string"
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(41122) : ïًهنَïًهونهيèه 216: âëîوهييûé êîىىهيٍàًèé
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(41183) : يهïًàâèëüيàے ٍàلَëےِèے
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(41311) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(41311) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(41311) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(41377) : ïًهنَïًهونهيèه 219: ïهًهىهييàے "mod" َوه îلْےâëهيà â لîëهه مëîلàëüيîé çîيه âèنèىîٌٍè
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(42000) : èنهيٍèôèêàٍîًَ ïًèٌâîهيî çيà÷هيèه, يî îي يه èٌïîëüçَهٌٍے: "animTime"
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(42282) : يهïًàâèëüيàے ٍàلَëےِèے
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(42418) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "count"
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(42418) -- (42465) : ïًهنَïًهونهيèه 235: public-ôَيêِèے يَونàهٌٍے â îïهًهوà‏ùهى îلْےâëهيèè (èنهيٍèôèêàٍîً "TimerSelfRepair")
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(42813) : يهïًàâèëüيàے ٍàلَëےِèے
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(42875) : èنهيٍèôèêàٍîًَ ïًèٌâîهيî çيà÷هيèه, يî îي يه èٌïîëüçَهٌٍے: "string"
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(42886) : ïًهنَïًهونهيèه 202: êîëè÷هٌٍâî àًمَىهيٍîâ يه ٌîâïàنàهٍ ٌ îلْےâëهيèهى
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(43070) : يهïًàâèëüيàے ٍàلَëےِèے
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(43072) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(43077) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(43080) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(43083) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(43089) : يهïًàâèëüيàے ٍàلَëےِèے
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(43095) : يهïًàâèëüيàے ٍàلَëےِèے
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(44667) : èنهيٍèôèêàٍîًَ ïًèٌâîهيî çيà÷هيèه, يî îي يه èٌïîëüçَهٌٍے: "string"
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(44753) : ïًهنَïًهونهيèه 219: ïهًهىهييàے "carID" َوه îلْےâëهيà â لîëهه مëîلàëüيîé çîيه âèنèىîٌٍè
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(44763) : ïًهنَïًهونهيèه 219: ïهًهىهييàے "carID" َوه îلْےâëهيà â لîëهه مëîلàëüيîé çîيه âèنèىîٌٍè
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(44825) : ïًهنَïًهونهيèه 219: ïهًهىهييàے "playerName" َوه îلْےâëهيà â لîëهه مëîلàëüيîé çîيه âèنèىîٌٍè
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(44834) : ïًهنَïًهونهيèه 219: ïهًهىهييàے "playerName" َوه îلْےâëهيà â لîëهه مëîلàëüيîé çîيه âèنèىîٌٍè
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(44956) : ïًهنَïًهونهيèه 219: ïهًهىهييàے "carID" َوه îلْےâëهيà â لîëهه مëîلàëüيîé çîيه âèنèىîٌٍè
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(45445) : يهïًàâèëüيàے ٍàلَëےِèے
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(49607) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(49611) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(50467) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(50472) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(50490) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(50494) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(50596) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(50600) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(50604) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(50625) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(50629) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(50633) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(50637) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(50849) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(51337) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(51371) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(51374) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(54704) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(54709) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(54796) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(54845) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(54850) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(54904) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(54909) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(55136) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(55150) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(55192) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(56918) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(56923) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(57898) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(57903) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(58153) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(58158) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(58163) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(58168) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(59562) : يهïًàâèëüيàے ٍàلَëےِèے
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(60219) : èنهيٍèôèêàٍîًَ ïًèٌâîهيî çيà÷هيèه, يî îي يه èٌïîëüçَهٌٍے: "secs"
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(64170) : ïًهنَïًهونهيèه 202: êîëè÷هٌٍâî àًمَىهيٍîâ يه ٌîâïàنàهٍ ٌ îلْےâëهيèهى
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(70745) : يهïًàâèëüيàے ٍàلَëےِèے
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(70767) : ïًهنَïًهونهيèه 219: ïهًهىهييàے "string" َوه îلْےâëهيà â لîëهه مëîلàëüيîé çîيه âèنèىîٌٍè
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(70767) : èنهيٍèôèêàٍîًَ ïًèٌâîهيî çيà÷هيèه, يî îي يه èٌïîëüçَهٌٍے: "string"
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(70837) : يهïًàâèëüيàے ٍàلَëےِèے
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(71806) : يهïًàâèëüيàے ٍàلَëےِèے
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(71807) : يهïًàâèëüيàے ٍàلَëےِèے
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(72449) : يهïًàâèëüيàے ٍàلَëےِèے
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(72813) : يهïًàâèëüيàے ٍàلَëےِèے
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(72815) : يهïًàâèëüيàے ٍàلَëےِèے
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(73314) : ïًهنَïًهونهيèه 202: êîëè÷هٌٍâî àًمَىهيٍîâ يه ٌîâïàنàهٍ ٌ îلْےâëهيèهى
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(73423) : يهïًàâèëüيàے ٍàلَëےِèے
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(73424) : يهïًàâèëüيàے ٍàلَëےِèے
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(74203) : يهïًàâèëüيàے ٍàلَëےِèے
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(74244) : يهïًàâèëüيàے ٍàلَëےِèے
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(74325) : يهïًàâèëüيàے ٍàلَëےِèے
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(74366) : يهïًàâèëüيàے ٍàلَëےِèے
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(74387) : يهïًàâèëüيàے ٍàلَëےِèے
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(74407) : يهïًàâèëüيàے ٍàلَëےِèے
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(74428) : يهïًàâèëüيàے ٍàلَëےِèے
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(75853) : يهïًàâèëüيàے ٍàلَëےِèے
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(75854) : يهïًàâèëüيàے ٍàلَëےِèے
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(76276) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "targetid"
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(76276) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "modelid"
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(76276) : èنهيٍèôèêàٍîًَ ïًèٌâîهيî çيà÷هيèه, يî îي يه èٌïîëüçَهٌٍے: "model"
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(76384) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(76384) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(76391) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(76391) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(76403) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(76403) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(78185) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(78185) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(78207) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(78209) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(79415) : يهïًàâèëüيàے ٍàلَëےِèے
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(79418) : يهïًàâèëüيàے ٍàلَëےِèے
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(81204) : يهïًàâèëüيàے ٍàلَëےِèے
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(82944) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(84172) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(84172) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(84174) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(84183) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(84183) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(84185) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(84194) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(84194) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(84196) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(84303) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(88889) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(94496) : èنهيٍèôèêàٍîًَ ïًèٌâîهيî çيà÷هيèه, يî îي يه èٌïîëüçَهٌٍے: "reason"
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(94496) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "targetid"
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(97046) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(97171) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(97181) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(97229) : ïًهنَïًهونهيèه 202: êîëè÷هٌٍâî àًمَىهيٍîâ يه ٌîâïàنàهٍ ٌ îلْےâëهيèهى
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(97230) : ïًهنَïًهونهيèه 202: êîëè÷هٌٍâî àًمَىهيٍîâ يه ٌîâïàنàهٍ ٌ îلْےâëهيèهى
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(97235) : ïًهنَïًهونهيèه 202: êîëè÷هٌٍâî àًمَىهيٍîâ يه ٌîâïàنàهٍ ٌ îلْےâëهيèهى
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(97236) : ïًهنَïًهونهيèه 202: êîëè÷هٌٍâî àًمَىهيٍîâ يه ٌîâïàنàهٍ ٌ îلْےâëهيèهى
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(97240) : ïًهنَïًهونهيèه 202: êîëè÷هٌٍâî àًمَىهيٍîâ يه ٌîâïàنàهٍ ٌ îلْےâëهيèهى
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(97298) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(98022) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(98022) : ïًهنَïًهونهيèه 213: يهٌîâïàنهيèه ٍèïîâ
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(99467) : ïًهنَïًهونهيèه 209: ôَيêِèے "ADH_ShowPlayerDialog" نîëويà âîçâًàùàٍü çيà÷هيèه
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(99895) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "itemid"
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(99895) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "car"
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(8393) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "AddToPaycheck"
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(841) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "AsterInsuKeliling"
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(3158) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "BLUECOLT45C"
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(3164) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "BLUEMACHETEC"
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(3169) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "CUFFC"
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(68915) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "GetFactoryResources"
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(65964) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "GetGroupRank"
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(68917) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "GetMaxFactoryResources"
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(58751) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "GetNearbyFoodIndustry"
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(58764) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "GetNearbyFoodIndustryDrink"
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(64545) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "GetOreValue"
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(68312) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "GetPlayerNick"
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(68913) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "GetPlayerTrash"
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(68919) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "GetPlayerWEEDTrashSkill"
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(68300) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "IsPlayerWListedIP"
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(68306) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "IsPlayerWListedName"
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(3156) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "KNIFEC"
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(3314) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "Marijuanamm"
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(3168) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "NAILSC"
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(346) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "NPCBlackBus"
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(345) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "NPCBlueBus"
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(344) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "NPCTextBlack"
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(343) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "NPCTextBlue"
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(68940) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "PayByResources"
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(350) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "PlayerSkin"
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(350) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "Playera"
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(350) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "Playerx"
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(350) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "Playery"
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(350) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "Playerz"
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(838) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "SPEEDOTD"
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(840) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "SPEEDO_FUEL"
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(838) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "SPEEDO_LOCATION"
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(838) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "SPEEDO_SPEED"
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(3154) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "SPRINGC"
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(64551) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "ShowSellOre"
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(64739) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "SpikedBatPlace"
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(12771) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "StartForkliftJob"
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(536) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "TackleON"
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(68916) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "UpdateFactoryResources"
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(68918) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "UpdatePlayerWEEDTrashSkill"
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(68948) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "WEEDGetTrashPrice"
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(3326) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "WEEDTotalTrashCollected"
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(3327) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "WEEDVehicleTrash"
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(239) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "_RenderBar"
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(655) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "armedbody_pTick"
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(3070) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "arrVehicleNames"
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(44751) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "carID"
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(26438) : èنهيٍèôèêàٍîًَ ïًèٌâîهيî çيà÷هيèه, يî îي يه èٌïîëüçَهٌٍے: "deery"
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(44773) : èنهيٍèôèêàٍîًَ ïًèٌâîهيî çيà÷هيèه, يî îي يه èٌïîëüçَهٌٍے: "fuel"
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(44774) : èنهيٍèôèêàٍîًَ ïًèٌâîهيî çيà÷هيèه, يî îي يه èٌïîëüçَهٌٍے: "modelID"
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(284) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "quotes"
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(297) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "ret_memcpy"
+C:\Users\joker\Desktop\drop gamemode\gamemodes\africabeta.pwn(44702) : èنهيٍèôèêàٍîً يه èٌïîëüçَهٌٍے: "scmf"
 Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2017, ITB CompuPhase
 
 
-دًهنَïًهونهيèé:121.
+دًهنَïًهونهيèé:124.

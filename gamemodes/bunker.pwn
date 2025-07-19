@@ -13,7 +13,8 @@
 #define INVALID_DOOR_ID \
     -1
 
-// تم حذف تعريف PRESSED لتجنب إعادة التعريف، استخدم التعريف الموجود في africa.pwn فقط
+#define PRESSED(%0) \
+    ( newkeys & %0 == %0 && oldkeys & %0 != %0 )
 
 enum {
     ACTOR_ENTRY_GUARD,
@@ -1619,28 +1620,28 @@ public OnObjectMoved(objectid) {
 }
 
 public OnPlayerEnterDynamicArea(playerid, areaid) {
-    
+	
     if( areaid == g_EntryArea ) {
-        if(Inventory_HasItem(playerid, "Key Card")) {
+		if(Inventory_HasItem(playerid, "Key Card")) {
         if( g_EntryExitSkip{playerid} ) {
             g_EntryExitSkip{playerid} = false;
         } else {
             g_EntryExitSkip{playerid} = true;
             SetPlayerPos(playerid, -1578.0275, -2569.4412, 28.8323);
         }
-        }
+		}
         return 1;
-    }
-    
+	}
+	
     if( areaid == g_ExitArea ) {
-        if(Inventory_HasItem(playerid, "Key Card")) {
+		if(Inventory_HasItem(playerid, "Key Card")) {
         if( g_EntryExitSkip{playerid} ) {
             g_EntryExitSkip{playerid} = false;
         } else {
             g_EntryExitSkip{playerid} = true;
             SetPlayerPos(playerid, -1584.0164, -2572.3108, 28.8232);
         }
-        }
+		}
         return 1;
     }
 
