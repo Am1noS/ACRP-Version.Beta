@@ -84,7 +84,7 @@
 
 لأي استفسارات، دعم تقني، أو طلب تعديلات مخصصة، يرجى التواصل مع المطور:
 
-- 📧 Email: **medamine.khoualdia@gmail.com**  
+- 📧 Email: **amine0xdarkside@gmail.com**  
 - 💬 Discord: `learnpawn` 
 - 🌐 GitHub: [github.com/Am1noS](https://github.com/Am1noS) 
 
