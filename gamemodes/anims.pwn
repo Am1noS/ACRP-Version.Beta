@@ -1,4 +1,36 @@
-// Animations script for Millennial Roleplay
+/*
+ ****************************************************************
+ *  ___________________________________________________________ *
+ * |                         INFORMATION                       |*
+ * |___________________________________________________________|*
+ * |                                                           |*
+ * |   [Server]: "Africa City V.Beta"                          |*
+ * |   [Version]: "Beta - Public Release"                      |*     
+ * |   [Developer]: "Amine" Discord-user: (@learnpawn)         |*
+ * |   [Scripts Date]: "20/5/2025"                             |*                                                         
+ * |   [Owner]: "AMINE & ANIS"                                 |*
+ * |                       									   |*
+ * |___________________________________________________________|*
+ *                                                              *
+ *   COPYRIGHT آ© 2025 AMINE - Afria City Roleplay.             *
+ *   This script is publicly released by the original author.   *
+ *                                                              *
+ *   Redistribution and use with credit are allowed.            *
+ *   Commercial use or resale is strictly prohibited.           *
+ *                                                              *
+ *   For contributions, issues, or forks, visit:                *
+ *   https://github.com/Am1noS/ACRP-Version.Beta                *
+ *                                                              *
+ *   Contact: amine0xdarkside@gmail.com                         *
+ ****************************************************************
+*/
+
+// Animations script for Africa City Rp
+// Animations script for Africa City Rp
+// Animations script for Africa City Rp
+// Animations script for Africa City Rp
+
+
 #define COLOR_GRAD1  0xB4B5B7FF
 #define COLOR_GRAD2  0xBFC0C2FF
 #define COLOR_GRAD3  0xCBCCCEFF
