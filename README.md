@@ -77,7 +77,7 @@
    discord_bot_token YOUR_TOKEN_HERE
    ```
 
-5. افتح ملف `baltimore.pwn` وابحث عن:
+5. افتح ملف `africa.pwn` وابحث عن:
 
    ```pawn
    | **__Discord Channels__** |
